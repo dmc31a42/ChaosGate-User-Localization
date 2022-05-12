@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "净化",
+  "INSTANT_EFFECT_NAME_Purify": "净化",
   "INSTANT_EFFECT_DESC_Purify": "受到[b:净化]影响的骑士的苦难效果将会立即被移除。",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "击退",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "受影响的目标会被猛烈地从[b:击退]源头推开，推开范围为[g:{param1}]距离。",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "污染之刃",
   "STATUS_EFFECT_TOAST_SearingBlades": "灼热之刃",
   "STATUS_EFFECT_TOAST_WeaponVirus": "武器病毒"
-    }
+}

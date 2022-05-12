@@ -1,5 +1,5 @@
 {
-        "WARP_SURGE_FROZEN": "Ola de disformidad congelada",
+  "WARP_SURGE_FROZEN": "Ola de disformidad congelada",
   "COMBAT_EVENT_TYPE_BossPhase": "Habilidad crítica",
   "COMBAT_EVENT_TYPE_NurglingSwarm": "Enjambre de nurgletes",
   "COMBAT_EVENT_TYPE_PowerOfTheBloom": "Poder del Brote",
@@ -167,4 +167,4 @@
   "STRATAGEM_DOMINATE_DESCRIPTION": "Selecciona a un [b:enemigo]: {statusEffect}.",
   "WARP_SURGE_WEAPON_VIRUS_TOAST": "Munición destruida",
   "WARP_SURGE_RELENTLESS_HOST_TOAST": "Inmune (aturdimiento)"
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Advertencia: una nave Nurgle nos ha seguido en la disformidad y ha comenzado a acelerar para interceptar al Mandato.",
+  "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Advertencia: una nave Nurgle nos ha seguido en la disformidad y ha comenzado a acelerar para interceptar al Mandato.",
   "BypassOpportunity_Intro2_Text": "HERMANO ECTAR: Debemos salir de la disformidad y prepararnos para el combate, comandante.",
   "BypassOpportunity_Intro3_Text": "DOMINA LUNETE: Alternativa: una ligera corrección del rumbo y una aceleración máxima confundirán a nuestro perseguidor. Nuestro horario se verá afectado.",
   "BypassOpportunity_Choice0_MenuText": "Intentar la retirada.",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:TÚ: ¡Abordad la nave enemiga!]",
   "DelayingTactics_Choice2_MenuTextB": "[b:TÚ: Abro fuego.]",
   "DelayingTactics_Choice3_MenuTextB": "[b:TÚ: ¡Voy al planeta inmediatamente!]"
-    }
+}

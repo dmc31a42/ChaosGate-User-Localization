@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Visuale",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Visuale",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "Usa {0}{1}{2}{3} per muovere la visuale nella cattedrale.",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "Movimento",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "Posiziona qui il cursore e premi {0} per selezionare la posizione.",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "I progetti di ricerca avanzati richiedono dei Semi.",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "Cavalieri Feriti",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "Quando i Cavalieri tornano feriti dalle missioni, impiegheranno tempo per riprendersi. I Cavalieri feriti possono essere impiegati nelle missioni, ma subiranno una penalità ai loro PV max."
-    }
+}

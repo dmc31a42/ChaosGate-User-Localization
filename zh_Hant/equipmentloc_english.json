@@ -1,5 +1,5 @@
 {
-        "STAT_ICON_DISPLAY_BaseKey": "[{0}:{1}]",
+  "STAT_ICON_DISPLAY_BaseKey": "[{0}:{1}]",
   "STAT_ICON_DISPLAY_Basic": "{0}",
   "STAT_ICON_DISPLAY_Percent": "{0}%",
   "STAT_ICON_DISPLAY_Plus": "+{0}",
@@ -902,4 +902,4 @@
   "WEAPON_TYPE_Ranged": "遠程武器",
   "WEAPON_TYPE_AOE": "範圍武器",
   "WEAPON_Multi_Ability_Display": "允許訪問{0}。"
-    }
+}

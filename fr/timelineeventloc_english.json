@@ -1,5 +1,5 @@
 {
-        "Event_Common_Close": "Fermer",
+  "Event_Common_Close": "Fermer",
   "Event_Common_Continue": "Continuer",
   "Event_ADisobedientPupil_Title": "L'élève récalcitrant",
   "Event_ADisobedientPupil_SubTitle": "Accès non autorisé",
@@ -587,4 +587,4 @@
   "MustAcceptAllDeeds_Description": "Vous devez accepter tous les Actes glorieux",
   "DestroyAReaper_Title": "Quête\\u00A0: détruire un Faucheur",
   "DestroyAReaper_Description": "Kai sera très contrarié si vous échouez"
-    }
+}

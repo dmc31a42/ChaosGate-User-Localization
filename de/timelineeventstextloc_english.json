@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "BRUDER ECTAR: Commander, ich habe beunruhigende Neuigkeiten: Der leitende Maschinenseher im Manufactorum wurde beim Zugriff auf eingeschränkte Archive der Grey Knights erwischt! Dahinter muss unser Feind stecken!",
+  "ADisobedientPupil_Intro1_Text": "BRUDER ECTAR: Commander, ich habe beunruhigende Neuigkeiten: Der leitende Maschinenseher im Manufactorum wurde beim Zugriff auf eingeschränkte Archive der Grey Knights erwischt! Dahinter muss unser Feind stecken!",
   "ADisobedientPupil_Intro2_Text": "DOMINA LUNETE: Ablehnung: Scans auf Verderbnis sind negativ. Verhör hat keine relevanten Daten ergeben. Zugriffsüberschreitung wahrscheinlich versehentlich erfolgt.",
   "ADisobedientPupil_Intro3_Text": "BRUDER ECTAR: Nurgles Diener sind verschlagen! Er sollte mitsamt seinen engen Kollegen gereinigt werden.",
   "ADisobedientPupil_Intro4_Text": "DOMINA LUNETE: Alternative: Degradierung und Zugriffsbeschränkung. Das Personal im Manufactorum ist bereits begrenzt.",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:DU: Schicke Ectar los, um die Angelegenheit zu untersuchen.]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:DU: Analysiere die Lage aus der Umlaufbahn.]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:DU: Fliege an der Anomalie vorbei.]"
-    }
+}

@@ -1,6 +1,6 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "戰役時間表",
-  "TOOLTIP_CampaignTimeline_Description": "目前在此次戰役中已過去的泰瑞昂太陽日天數",
+  "TOOLTIP_CampaignTimeline_Title": "戰役時間表",
+  "TOOLTIP_CampaignTimeline_Description": "目前在此次戰役中已過去的泰瑞昂太陽日天數。",
   "TOOLTIP_PlanetView_Title": "星球視圖",
   "TOOLTIP_StarMap_Title": "星圖",
   "TOOLTIP_Strategium_Title": "戰略室",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "在戰鬥中提升已裝備伺服頭骨的距離。",
   "TOOLTIP_StunDamage_Title": "暈眩傷害加成",
   "TOOLTIP_StunDamage_Description": "當此武器擊中目標時，提供額外的暈眩傷害。被暈眩的目標下次受到攻擊時將始終遭受暴擊，如果其擁有有效的目標點，還可被[b:處決]。"
-    }
+}

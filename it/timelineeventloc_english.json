@@ -1,5 +1,5 @@
 {
-        "Event_Common_Close": "Chiudi",
+  "Event_Common_Close": "Chiudi",
   "Event_Common_Continue": "Continua",
   "Event_ADisobedientPupil_Title": "L'Allievo Ribelle",
   "Event_ADisobedientPupil_SubTitle": "Accesso non autorizzato",
@@ -587,4 +587,4 @@
   "MustAcceptAllDeeds_Description": "Devi accettare tutte le gesta gloriose",
   "DestroyAReaper_Title": "Missione: distruggi un Mietitore",
   "DestroyAReaper_Description": "Se fallirai, Kai ne sarà deluso"
-    }
+}

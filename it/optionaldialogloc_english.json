@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "VAKIR: Hai la mia attenzione, Cavaliere.",
+  "TalkToVakir_Intro1_Text": "VAKIR: Hai la mia attenzione, Cavaliere.",
   "TalkToVakir_Intro2_Text": "VAKIR: Abbiamo entrambi del lavoro da svolgere. Che cosa ti serve?",
   "TalkToVakir_Intro3_Text": "VAKIR: La Editto Funesto è una nave grande, Comandante, eppure la tua presenza è sempre qui...",
   "TalkToVakir_Intro4_Text": "VAKIR: Posso aiutarti, Comandante?",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "LUNETE: I lavori sugli scudi vacuum continuano. È un'area che devo supervisionare personalmente, poiché gli scudi vacuum sono tecnologia esclusiva del Mechanicum... Conoscenza proibita a chiunque non abbia il grado di Dominus. Restano una priorità, quindi li renderò pienamente operativi il prima possibile.",
   "TalkToLunete_Outro1_MenuText": "È tutto per ora.",
   "TalkToLunete_Outro1_MenuTextB": "[b:TU: È tutto per ora.]"
-    }
+}

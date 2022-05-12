@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "Volontà migliorata",
+  "ABILITY_NAME_Chaplain_BonusWP": "Volontà migliorata",
   "ABILITY_DESC_Chaplain_BonusWP": "Il Cavaliere ottiene [g:+{willpowerAmount}] [b:VOL max] permanentemente.",
   "ABILITY_NAME_Chaplain_Provoke": "Provocazione",
   "ABILITY_DESC_Chaplain_Provoke": "Genera un'[b:esplosione] con area [g:{radius}] entro gittata [g:{range}], infliggendo {statusEffect}.",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "Gli [b:attacchi a distanza] che colpiscono da o in questa area infliggono [g:-{damageReduction}] DAN.",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "Sciami di mosche",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "Gli alleati colpiti da [b:attacchi a distanza] da o in questa nube subiscono [g:-{damageReduction}] DAN."
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "WARP_SURGE_FROZEN": "Picco Warp congelato",
+  "WARP_SURGE_FROZEN": "Picco Warp congelato",
   "COMBAT_EVENT_TYPE_BossPhase": "Abilità Crisi",
   "COMBAT_EVENT_TYPE_NurglingSwarm": "Sciame di Nurglini",
   "COMBAT_EVENT_TYPE_PowerOfTheBloom": "Potere della Fioritura",
@@ -167,4 +167,4 @@
   "STRATAGEM_DOMINATE_DESCRIPTION": "Seleziona un [b:nemico]: {statusEffect}.",
   "WARP_SURGE_WEAPON_VIRUS_TOAST": "Munizioni distrutte",
   "WARP_SURGE_RELENTLESS_HOST_TOAST": "Immune (Stordimento)"
-    }
+}

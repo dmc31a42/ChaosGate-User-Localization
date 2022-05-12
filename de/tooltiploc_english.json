@@ -1,5 +1,5 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "Kampagnen-Zeitlinie",
+  "TOOLTIP_CampaignTimeline_Title": "Kampagnen-Zeitlinie",
   "TOOLTIP_CampaignTimeline_Description": "Die Anzahl der in dieser Kampagne bereits vergangenen tyrtaenischen Solartage.",
   "TOOLTIP_PlanetView_Title": "Planetenansicht",
   "TOOLTIP_StarMap_Title": "Sternenkarte",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "Erhöht im Kampf die Reichweite ausgerüsteter Servoschädel.",
   "TOOLTIP_StunDamage_Title": "Betäubungsschadenbonus",
   "TOOLTIP_StunDamage_Description": "Diese Waffe gewährt Bonus-Betäubungsschaden, wenn sie ihr Ziel trifft. Betäubte Ziele erleiden beim nächsten Angriff immer einen kritischen Treffer und können [b:hingerichtet] werden, wenn sie einen gültigen Zielpunkt haben."
-    }
+}

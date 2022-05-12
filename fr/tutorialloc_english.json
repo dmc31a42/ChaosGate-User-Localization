@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Caméra",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Caméra",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "Utilisez {0}{1}{2}{3} pour défiler vers la cathédrale.",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "Se déplacer",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "Placez votre curseur ici et appuyez sur {0} pour sélectionner la position.",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "Des graines sont nécessaires pour débuter les projets de recherche avancés.",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "Chevaliers Blessés",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "Lorsque vos Chevaliers reviennent blessés du combat, il leur faut du temps pour se rétablir. Les Chevaliers blessés peuvent toujours être assignés à des missions de combat, mais ils auront une pénalité de PV Max."
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomancia Braço de Ferro",
+  "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomancia Braço de Ferro",
   "CLASS_PERK_Apothecary_IronArmBiomancy_SubTitle": "Bênção psíquica",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_Title": "Biomancia Braço de Ferro – Aprimorar duração",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_SubTitle": "Aprimorar - duração",
@@ -562,4 +562,4 @@
   "ABILITY_CLASS_TYPE_NAME_ForceStrike": "Ofensiva de Força",
   "ABILITY_CLASS_TYPE_SUBTITLE_ForceStrike": "Ofensiva de Força",
   "ABILITY_CLASS_TYPE_DESC_ForceStrike": "Uma [b:Ofensiva de Força] fortalece os ataques corpo a corpo do Cavaleiro com armas de Força Nêmesis, concedendo Determinação adicional."
-    }
+}

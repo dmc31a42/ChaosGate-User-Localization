@@ -1,5 +1,5 @@
 {
-        "WARP_SURGE_FROZEN": "Wzrost aktywności Osnowy zamrożony",
+  "WARP_SURGE_FROZEN": "Wzrost aktywności Osnowy zamrożony",
   "COMBAT_EVENT_TYPE_BossPhase": "Umiejętność awaryjna",
   "COMBAT_EVENT_TYPE_NurglingSwarm": "Chmara Nurgląt",
   "COMBAT_EVENT_TYPE_PowerOfTheBloom": "Moc Wykwitu",
@@ -167,4 +167,4 @@
   "STRATAGEM_DOMINATE_DESCRIPTION": "Namierzony [b:wróg]: {statusEffect}.",
   "WARP_SURGE_WEAPON_VIRUS_TOAST": "Amunicja zniszczona",
   "WARP_SURGE_RELENTLESS_HOST_TOAST": "Niewrażliwość (ogłuszenie)"
-    }
+}

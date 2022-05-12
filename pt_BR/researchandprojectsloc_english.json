@@ -1,5 +1,5 @@
 {
-        "Reconstruction_Calendar_Construction_In_Progress": "Construção em andamento",
+  "Reconstruction_Calendar_Construction_In_Progress": "Construção em andamento",
   "Reconstruction_Calendar_Repair_In_Progress": "Reparo em andamento",
   "Plasma_Reactor_1_Title": "Geração de Reator Aprimorada I",
   "Plasma_Reactor_1_Description": "Ainda que o reparo do Reator de Plasma tenha sido suficiente para os esforços de reconstrução mais básicos, a produção de energia permanece muito instável para o suporte a instalações mais avançadas. Os resultados levarão tempo para ser visíveis, mas reforçar o reator é um passo essencial para devolver a [b:Proclamação] à devida glória.",
@@ -351,7 +351,7 @@
   "Advanced_Seed_Extraction_Briefing": "Comandante, tenho estudado como a cepa Dolorus afeta suas vítimas. A infecção se prende diretamente às extremidades nervosas, substituindo sensações corriqueiras por agonia incessante. Reproduzindo este efeito, podemos incapacitar brevemente os portadores de sementes para que mais delas possam sobreviver intactas à remoção. É um procedimento excruciante, mas é apenas a penitência por abandonar a luz do Imperador.",
   "Advanced_Seed_Extraction_Effect": "+1 semente na extração",
   "Bloom_Seed_Purification_Poxus_Title": "Purificação da semente da Proliferação",
-  "Bloom_Seed_Purification_Poxus_Description": "Você viu como as sementes podem ser transformadas e ter aplicação marcial por meio dos Selos de Pureza. No entanto, o ritual de incineração do Irmão Ectar preserva apenas uma facção do poder delas. Com uma compreensão melhor de sua natureza, podemos refinar o processo para criar símbolos de Pureza que usem todo o poder das sementes contra os inimigos",
+  "Bloom_Seed_Purification_Poxus_Description": "Você viu como as sementes podem ser transformadas e ter aplicação marcial por meio dos Selos de Pureza. No entanto, o ritual de incineração do Irmão Ectar preserva apenas uma facção do poder delas. Com uma compreensão melhor de sua natureza, podemos refinar o processo para criar símbolos de Pureza que usem todo o poder das sementes contra os inimigos.",
   "Bloom_Seed_Purification_Poxus_Benefit": "Selo de Pureza Verde: Custa -1 Semente",
   "Bloom_Seed_Purification_Poxus_Briefing": "São as sementes que propagam a pestilência, e o Irmão Ectar tem tomado todo o cuidado ao lidar com artefatos de tamanha virulência. Entretanto, a sutileza não raro alcança o que a força não consegue. Encontrei uma forma de... neutralizar as sementes de Infestus, permitindo que Ectar purifique as cinzas antes que muito do poder delas se perca. Como em uma inoculação, transformaremos ícones da corrupção em símbolos da [b:Pureza] para adornar seus cavaleiros.",
   "Bloom_Seed_Purification_Poxus_Effect": "Selo de Pureza Verde: Custa -1 Semente",
@@ -550,4 +550,4 @@
   "POPUPS_ReaperFoundDescription": "Comandante, a Inquisidora Vakir harmonizou o Codex Toxicus e nos forneceu as coordenadas da localização atual do Ceifador <style=\"UIGreen\">{0}</style>. Esta localização foi adicionada como missão ao Mapa Estelar. Temos de caçar e destruir esse Ceifador imediatamente.",
   "POPUPS_ReaperFoundFooter": "NOVA MISSÃO: CAÇA AO CEIFADOR",
   "RESEARCH_VAKIR_RECOVERING_Type": "VAKIR ferida"
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "Mejorar fuerza de voluntad",
+  "ABILITY_NAME_Chaplain_BonusWP": "Mejorar fuerza de voluntad",
   "ABILITY_DESC_Chaplain_BonusWP": "Este caballero añade [g:+{willpowerAmount}] a su [b:FV máxima] de forma permanente.",
   "ABILITY_NAME_Chaplain_Provoke": "Provocación",
   "ABILITY_DESC_Chaplain_Provoke": "Desata una [b:explosión] sobre un área de [g:{radius}] a una distancia de [g:{range}] al {statusEffect}.",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "Todos los [b:ataques a distancia] recibidos en esta área infligen [g:-{damageReduction}] de DAÑO.",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "Nube de moscas",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "Los aliados que reciban [b:ataques a distancia] de esta nube sufren [g:-{damageReduction}] de DAÑO."
-    }
+}

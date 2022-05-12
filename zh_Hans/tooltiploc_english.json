@@ -1,6 +1,6 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "战役时间表",
-  "TOOLTIP_CampaignTimeline_Description": "目前在此次战役中已过去的泰瑞昂太阳日的天数",
+  "TOOLTIP_CampaignTimeline_Title": "战役时间表",
+  "TOOLTIP_CampaignTimeline_Description": "目前在此次战役中已过去的泰瑞昂太阳日的天数。",
   "TOOLTIP_PlanetView_Title": "星球视图",
   "TOOLTIP_StarMap_Title": "星图",
   "TOOLTIP_Strategium_Title": "战略室",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "在战斗中提升已装备伺服头骨的有效距离。",
   "TOOLTIP_StunDamage_Title": "眩晕伤害加成",
   "TOOLTIP_StunDamage_Description": "当此武器击中目标时，提供额外的眩晕伤害。被眩晕的目标下次受到攻击时将始终遭受暴击，如果其拥有有效的目标点，还可被[b:处决]。"
-    }
+}

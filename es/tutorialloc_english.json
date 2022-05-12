@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Cámara",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Cámara",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "Utiliza {0}{1}{2}{3} para desplazarte a la catedral y ver una panorámica.",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "Movimiento",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "Coloca aquí el puntero y pulsa {0} para seleccionar la posición.",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "Se precisan semillas para iniciar proyectos de investigación avanzados.",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "Caballeros heridos",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "Cuando un caballero regresa de una batalla herido, necesita tiempo para recuperarse. Podrás seguir asignando caballeros heridos en misiones de combate, pero sus PS máximos se verán reducidos."
-    }
+}

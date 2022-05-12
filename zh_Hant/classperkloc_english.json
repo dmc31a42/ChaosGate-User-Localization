@@ -1,5 +1,5 @@
 {
-        "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "鋼鐵之臂生物術",
+  "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "鋼鐵之臂生物術",
   "CLASS_PERK_Apothecary_IronArmBiomancy_SubTitle": "靈能恩惠",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_Title": "鋼鐵之臂生物術 - 持續時間升級",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_SubTitle": "升級 - 持續時間",
@@ -562,4 +562,4 @@
   "ABILITY_CLASS_TYPE_NAME_ForceStrike": "強力打擊",
   "ABILITY_CLASS_TYPE_SUBTITLE_ForceStrike": "強力打擊",
   "ABILITY_CLASS_TYPE_DESC_ForceStrike": "[b:強力打擊]可強化騎士的復仇之力近戰攻擊，獲得額外的毅力值。"
-    }
+}

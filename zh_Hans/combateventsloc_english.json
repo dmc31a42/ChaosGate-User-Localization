@@ -1,5 +1,5 @@
 {
-        "WARP_SURGE_FROZEN": "亚空间浪涌已冻结",
+  "WARP_SURGE_FROZEN": "亚空间浪涌已冻结",
   "COMBAT_EVENT_TYPE_BossPhase": "危机能力",
   "COMBAT_EVENT_TYPE_NurglingSwarm": "纳垢灵涌动",
   "COMBAT_EVENT_TYPE_PowerOfTheBloom": "魔卉的力量",
@@ -167,4 +167,4 @@
   "STRATAGEM_DOMINATE_DESCRIPTION": "瞄准一名[b:敌人]：获得{statusEffect}效果。",
   "WARP_SURGE_WEAPON_VIRUS_TOAST": "弹药已摧毁",
   "WARP_SURGE_RELENTLESS_HOST_TOAST": "免疫（晕眩）"
-    }
+}

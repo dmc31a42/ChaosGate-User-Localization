@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Warnung: Ein Nurgle-Schiff hat uns im Warp beschattet und beschleunigt nun auf diesem Kurs, um die Edikt abzufangen.",
+  "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Warnung: Ein Nurgle-Schiff hat uns im Warp beschattet und beschleunigt nun auf diesem Kurs, um die Edikt abzufangen.",
   "BypassOpportunity_Intro2_Text": "BRUDER ECTAR: Wir sollten den Warp verlassen und uns kampfbereit machen, Commander!",
   "BypassOpportunity_Intro3_Text": "DOMINA LUNETE: Alternative: Eine kleine Kurskorrektur in Kombination mit einer maximalen Beschleunigung würde sie verwirren, aber auch unseren Zeitplan verraten.",
   "BypassOpportunity_Choice0_MenuText": "Versuche, dich zurückzuziehen.",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:DU: Entere das feindliche Schiff.]",
   "DelayingTactics_Choice2_MenuTextB": "[b:DU: Eröffne das Feuer!]",
   "DelayingTactics_Choice3_MenuTextB": "[b:DU: Lande sofort auf dem Planeten!]"
-    }
+}

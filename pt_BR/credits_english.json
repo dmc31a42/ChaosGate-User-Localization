@@ -1,5 +1,5 @@
 {
-        "CREDITS_CEO_Creative_Director": "CEO & Direção Criativa",
+  "CREDITS_CEO_Creative_Director": "CEO & Direção Criativa",
   "CREDITS_CTO": "CTO",
   "CREDITS_Technical_Director": "Direção Técnica",
   "CREDITS_Art_Director": "Direção de Arte",
@@ -206,4 +206,4 @@
   "CREDITS_Special_Thanks": "Agradecimentos",
   "CREDITS_SpecialThanksFull": "Queremos agradeer a todo mundo da Frontier Foundry e da Complex Games por este jogo fantástico. Também agradecemos aos nossos colegas da Games Workshop por passarem tantos anos construindo e desenvolvendo o universo de Warhammer 40.000.",
   "CREDITS_Wwise": "Powered by Wwise © 2006 – 2022 Audiokinetic Inc. Todos os direitos reservados."
-    }
+}

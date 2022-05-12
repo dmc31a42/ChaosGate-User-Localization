@@ -1,5 +1,5 @@
 {
-        "Reconstruction_Calendar_Construction_In_Progress": "施工进行中",
+  "Reconstruction_Calendar_Construction_In_Progress": "施工进行中",
   "Reconstruction_Calendar_Repair_In_Progress": "修复进行中",
   "Plasma_Reactor_1_Title": "改进反应堆输出I",
   "Plasma_Reactor_1_Description": "尽管修复等离子体反应堆足以应对最基本的重建工作，但功率输出仍然太不稳定，无法支持更先进的设施。成效还需要一些时日才能见到，但改进反应堆是重塑[b:法令号]应有荣耀的关键一步。",
@@ -550,4 +550,4 @@
   "POPUPS_ReaperFoundDescription": "指挥官，审判官瓦基尔已经同步了万毒大典，并为我们提供了收割者<style=\"UIGreen\">{0}</style>当前位置的坐标。该位置现已被添加为星图上的一项任务，我们应该追捕这个收割者并立即消灭它。",
   "POPUPS_ReaperFoundFooter": "新任务：追捕收割者",
   "RESEARCH_VAKIR_RECOVERING_Type": "瓦基尔受伤"
-    }
+}

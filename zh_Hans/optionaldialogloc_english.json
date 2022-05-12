@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "瓦基尔：我听着，骑士。",
+  "TalkToVakir_Intro1_Text": "瓦基尔：我听着，骑士。",
   "TalkToVakir_Intro2_Text": "瓦基尔：我们都有工作要忙，你需要什么？",
   "TalkToVakir_Intro3_Text": "瓦基尔：邪恶法令号是一艘很大的船，指挥官，但你却老是在这儿出现。",
   "TalkToVakir_Intro4_Text": "瓦基尔：我能帮你什么吗，指挥官？",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "卢内特：修复虚空盾的工作仍在继续。这块区域我必须亲自监督，因为虚空盾是机械神教的绝密技术——严禁让任何非主教等级人员获悉。其仍然是我们的头等事项，所以我会尽快让它们全面运转起来。",
   "TalkToLunete_Outro1_MenuText": "暂时就这些。",
   "TalkToLunete_Outro1_MenuTextB": "[b:你：暂时就这些。]"
-    }
+}

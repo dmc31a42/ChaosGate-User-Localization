@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "Purificar",
+  "INSTANT_EFFECT_NAME_Purify": "Purificar",
   "INSTANT_EFFECT_DESC_Purify": "Cavaleiros afetados por [b:Purificar] têm as aflições removidas imediatamente.",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "Repulsão",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "Os alvos afetados são empurrados violentamente para longe da fonte da [b:repulsão] a uma distância de [g:{param1}].",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "Lâminas Maculadas",
   "STATUS_EFFECT_TOAST_SearingBlades": "Lâminas Ardentes",
   "STATUS_EFFECT_TOAST_WeaponVirus": "Vírus Bélico"
-    }
+}

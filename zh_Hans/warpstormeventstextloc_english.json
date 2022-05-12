@@ -1,5 +1,5 @@
 {
-        "SeedResonance_Intro1_Text": "审判官瓦基尔：指挥官，我很担心船上藏书馆里的腐触魔卉：由于亚空间能量冲击船体，一些魔卉已经开始出现了共鸣现象。我建议我们调转航线，另寻他路。",
+  "SeedResonance_Intro1_Text": "审判官瓦基尔：指挥官，我很担心船上藏书馆里的腐触魔卉：由于亚空间能量冲击船体，一些魔卉已经开始出现了共鸣现象。我建议我们调转航线，另寻他路。",
   "SeedResonance_Choice0_MenuText": "返航",
   "SeedResonance_Choice1_MenuText": "继续穿越风暴。",
   "SeedResonance_Choice2_MenuText": "摧毁种子。",
@@ -22,4 +22,4 @@
   "ServitorsCorrupted_Choice0_MenuTextB": "[b:你：调转航线。]",
   "ServitorsCorrupted_Choice1_MenuTextB": "[b:你：继续穿越风暴。]",
   "ServitorsCorrupted_Choice2_MenuTextB": "[b:你：立即摧毁它们！]"
-    }
+}

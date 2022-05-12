@@ -1,5 +1,5 @@
 {
-        "COMMON_Cancel": "Cancelar",
+  "COMMON_Cancel": "Cancelar",
   "COMMON_Back": "Atrás",
   "COMMON_Accept": "Aceptar",
   "COMMON_Decline": "Rechazar",
@@ -1463,7 +1463,7 @@
   "SECONDARY_OBJECTIVE_NoHeal": "Completa la misión sin curaciones",
   "SECONDARY_OBJECTIVE_NoWill": "Completa la misión sin usar la fuerza de voluntad",
   "SECONDARY_OBJECTIVE_MissionTimer": "Completa la misión en {0} turnos",
-  "SECONDARY_OBJECTIVE_WeaponKill": "Mata a {0} enemigos con un arma {1}",
+  "SECONDARY_OBJECTIVE_WeaponKill": "Mata a {0} enemigos con: {1}",
   "SECONDARY_OBJECTIVE_WithoutWeapon": "Completa la misión sin usar {0}",
   "SECONDARY_OBJECTIVE_ExtractSeeds": "Extrae {0} semillas",
   "SECONDARY_OBJECTIVE_Bloomspawn": "Destruye a {1} engendros del Brote en un solo turno ({0}/{1})",
@@ -1488,9 +1488,9 @@
   "DEED_STORM_BOLTER": "Bólteres tormenta",
   "DEED_MELEE_WEAPONS": "Ataques cuerpo a cuerpo",
   "DEED_HEAVY_WEAPONS": "Armas pesadas",
-  "DEED_WEAPONKILL_MELEE_WEAPONS": "(SP)Melee Weapons",
-  "DEED_WEAPONKILL_RANGED_WEAPONS": "(SP)Ranged Weapons",
-  "DEED_WEAPONKILL_GRENADES": "(SP)Grenades",
+  "DEED_WEAPONKILL_MELEE_WEAPONS": "Armas cuerpo a cuerpo",
+  "DEED_WEAPONKILL_RANGED_WEAPONS": "Armas a distancia",
+  "DEED_WEAPONKILL_GRENADES": "Granadas",
   "SPREADING_MISSION_Intro": "Destruye esta monstruosidad infernal antes de que explote e inunde de esporas esta región del espacio.",
   "SPREADING_MISSION_Mission_Success": "¡Un trabajo excelente! Has conseguido frenar sus planes, al menos por ahora.",
   "SPREADING_MISSION_Knights_Defeated": "Los defensores del propagador han sido más duros de lo que esperábamos. Trae de vuelta a nuestros hermanos antes de que enviemos a los apotecarios para que recojan las semillas.",
@@ -1694,4 +1694,4 @@
   "TOAST_DESC_AdvanceRitual": "{duration} turno(s) hasta que se complete el ritual.",
   "WARNING_TItle": "Aviso de fotosensibilidad",
   "WARNING_MainText": "Ciertas personas pueden padecer una condición epiléptica no diagnosticada y sufrir episodios que pueden incluir desde percibir destellos y luces parpadeantes a formas geométricas y patrones en juegos o reproducciones audiovisuales. Deja de jugar inmediatamente si detectas alguno de los siguientes síntomas: visión alterada, dolor de ojos, tics musculares u oculares, convulsiones o movimientos involuntarios, pérdida de consciencia, confusión o desorientación, desmayo o migraña, dolor o incomodidad, dolor de cabeza, mareo, náuseas y cinetosis o síntomas similares.\n\nSi padeces de epilepsia o sufres episodios, consulta a un médico antes de jugar."
-    }
+}

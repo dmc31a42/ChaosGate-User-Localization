@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "Cultiste de Nurgle",
+  "ARCHETYPE_Cultist": "Cultiste de Nurgle",
   "ARCHETYPE_Description_Cultist": "Pris individuellement, les Cultistes de Nurgle ne sont pas de taille contre un Grey Knight, mais ils se déplacent en groupes et sont armés de diverses armes.",
   "ARCHETYPE_ApostatePreacher": "Prêcheur apostat",
   "ARCHETYPE_Description_ApostatePreacher": "Le Prêcheur apostat de Nurgle est un chef de culte capable de conférer des bienfaits maléfiques à ses alliés.",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "Récupération rapide",
   "TALENT_NAME_Talent_Guerilla": "Maître de l'Aegis",
   "CHARACTER_MAX_LEVEL": "Max"
-    }
+}

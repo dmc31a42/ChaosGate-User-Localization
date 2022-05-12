@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "Läutern",
+  "INSTANT_EFFECT_NAME_Purify": "Läutern",
   "INSTANT_EFFECT_DESC_Purify": "Ritter werden durch [b:Läutern] sofort von ihren Nachteilen befreit.",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "Rückschlag",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "Betroffene Ziele werden heftig von der Quelle des [b:Rückschlags] weggestoßen. Distanz: [g:{param1}].",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "Befleckte Klingen",
   "STATUS_EFFECT_TOAST_SearingBlades": "Ätzende Klingen",
   "STATUS_EFFECT_TOAST_WeaponVirus": "Waffenvirus"
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "Aprimorar determinação",
+  "ABILITY_NAME_Chaplain_BonusWP": "Aprimorar determinação",
   "ABILITY_DESC_Chaplain_BonusWP": "Este Cavaleiro ganha [g:+{willpowerAmount}] de [b:PD máximo] permanentemente.",
   "ABILITY_NAME_Chaplain_Provoke": "Provocar",
   "ABILITY_DESC_Chaplain_Provoke": "Deflagre uma [b:explosão] em uma área de [g:{radius}] a [g:{range}] de distância e cause {statusEffect}.",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "Todos os [b:ataques de longo alcance] realizados de dentro desta área ou para dentro dela causam [g:-{damageReduction}] de dano.",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "Nuvem de Moscas",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "Aliados alvejados por [b:ataques de longo alcance] de dentro desta nuvem ou para dentro dela recebem [g:-{damageReduction}] de dano."
-    }
+}

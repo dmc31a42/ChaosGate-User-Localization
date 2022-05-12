@@ -1,5 +1,5 @@
 {
-        "COMMON_Cancel": "Annulla",
+  "COMMON_Cancel": "Annulla",
   "COMMON_Back": "Indietro",
   "COMMON_Accept": "Accetta",
   "COMMON_Decline": "Rifiuta",
@@ -1463,7 +1463,7 @@
   "SECONDARY_OBJECTIVE_NoHeal": "Completa la missione senza curarti",
   "SECONDARY_OBJECTIVE_NoWill": "Completa la missione senza utilizzare Volontà",
   "SECONDARY_OBJECTIVE_MissionTimer": "Completa la missione in {0} turni",
-  "SECONDARY_OBJECTIVE_WeaponKill": "Uccidi {0} nemici con un'arma {1}",
+  "SECONDARY_OBJECTIVE_WeaponKill": "Uccidi {0} nemici con: {1}",
   "SECONDARY_OBJECTIVE_WithoutWeapon": "Completa la missione senza usare {0}",
   "SECONDARY_OBJECTIVE_ExtractSeeds": "Estrai {0} Semi",
   "SECONDARY_OBJECTIVE_Bloomspawn": "Distruggi {1} Progenie della Fioritura in un singolo turno ({0}/{1})",
@@ -1488,9 +1488,9 @@
   "DEED_STORM_BOLTER": "Requiem tempesta",
   "DEED_MELEE_WEAPONS": "Attacchi in mischia",
   "DEED_HEAVY_WEAPONS": "Armi pesanti",
-  "DEED_WEAPONKILL_MELEE_WEAPONS": "(IT)Melee Weapons",
-  "DEED_WEAPONKILL_RANGED_WEAPONS": "(IT)Ranged Weapons",
-  "DEED_WEAPONKILL_GRENADES": "(IT)Grenades",
+  "DEED_WEAPONKILL_MELEE_WEAPONS": "Armi da mischia",
+  "DEED_WEAPONKILL_RANGED_WEAPONS": "Armi a distanza",
+  "DEED_WEAPONKILL_GRENADES": "Granate",
   "SPREADING_MISSION_Intro": "Distruggete questa mostruosità infernale prima che esploda e inondi di spore questa regione della spazio",
   "SPREADING_MISSION_Mission_Success": "Ottimo lavoro, questo dovrebbe rallentare per un po' i loro piani",
   "SPREADING_MISSION_Knights_Defeated": "I difensori del diffusore si sono dimostrati troppo forti, riporta indietro i nostri Fratelli, prima che si renda necessario inviare gli Apotecari per recuperare il loro seme genetico",
@@ -1694,4 +1694,4 @@
   "TOAST_DESC_AdvanceRitual": "{duration} turno/i al completamento del rituale",
   "WARNING_TItle": "Avviso sull'epilessia",
   "WARNING_MainText": "Alcune persone potrebbero soffrire di epilessia non diagnosticata e avere convulsioni dovute a luci intense o intermittenti, oppure a forme e modelli geometrici durante contenuti video o nel gioco. Se riscontri uno dei seguenti sintomi, smetti immediatamente di giocare: visione alterata, indolenzimento degli occhi, spasmi degli occhi o dei muscoli, convulsioni o movimenti involontari, perdita di conoscenza, confusione o disorientamento, blackout o emicrania, malessere o dolore, mal di testa, capogiri, nausea o sintomi simili al mal d'auto.\n\nSe soffri di epilessia o di convulsioni, consulta il tuo medico prima di giocare."
-    }
+}

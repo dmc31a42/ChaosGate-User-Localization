@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "Kultyści Nurgle'a",
+  "ARCHETYPE_Cultist": "Kultyści Nurgle'a",
   "ARCHETYPE_Description_Cultist": "Kultyści Nurgle'a nie mogą mierzyć się z Szarymi Rycerzami w pojedynkę, ale zwykle grasują w sforach i używają najróżniejszych broni.",
   "ARCHETYPE_ApostatePreacher": "Kaznodzieja Apostata",
   "ARCHETYPE_Description_ApostatePreacher": "Kaznodzieja Apostata Nurgle'a jest przywódcą kultystów, który może zsyłać na swych sojuszników plugawe dary.",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "Szybkie zdrowienie",
   "TALENT_NAME_Talent_Guerilla": "Adept Aegis",
   "CHARACTER_MAX_LEVEL": "Maks."
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "Reconstruction_Calendar_Construction_In_Progress": "Bau läuft",
+  "Reconstruction_Calendar_Construction_In_Progress": "Bau läuft",
   "Reconstruction_Calendar_Repair_In_Progress": "Reparatur läuft",
   "Plasma_Reactor_1_Title": "Verbesserte Reaktorleistung I",
   "Plasma_Reactor_1_Description": "Wenngleich die Reparatur des Plasmareaktors im Hinblick auf den grundlegenden Wiederaufbau ausreichend war, ist die Stromleistung dennoch zu gering, als dass fortgeschrittene Anlagen entsprechend unterstützt werden könnten. Das Ergebnis wird eine Weile auf sich warten lassen, doch die Stärkung des Reaktors ist sicherlich ein wichtiger Schritt, um der [b:Edikt] wieder zu alter Größe zu verhelfen.",
@@ -550,4 +550,4 @@
   "POPUPS_ReaperFoundDescription": "Commander, Inquisitorin Vakir hat den Codex Toxicus eingestimmt und uns die aktuellen Koordinaten des Schnitters <style=\"UIGreen\">{0}</style> zukommen lassen. Dieser Ort wurde der Sternenkarte als Mission hinzugefügt. Wir sollten uns an die Fersen des Schnitters heften und ihn schleunigst vernichten.",
   "POPUPS_ReaperFoundFooter": "NEUE MISSION: SCHNITTERJAGD",
   "RESEARCH_VAKIR_RECOVERING_Type": "Vakir verwundet"
-    }
+}

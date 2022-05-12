@@ -1,5 +1,5 @@
 {
-        "Reconstruction_Calendar_Construction_In_Progress": "Construcción en curso",
+  "Reconstruction_Calendar_Construction_In_Progress": "Construcción en curso",
   "Reconstruction_Calendar_Repair_In_Progress": "Reparación en curso",
   "Plasma_Reactor_1_Title": "Producción del reactor mejorada I",
   "Plasma_Reactor_1_Description": "Aunque bastó con reparar el reactor de plasma para dar por concluida la reconstrucción en su etapa más básica, la producción de energía no es compatible con instalaciones más avanzadas debido a su inestabilidad. Tardaremos en ver los resultados, pero afianzar el reactor es esencial si queremos devolver al [b:Mandato] su esplendor de antaño.",
@@ -550,4 +550,4 @@
   "POPUPS_ReaperFoundDescription": "Comandante, la inquisidora Vakir ha sincronizado el Codex Toxicus y nos ha procurado las coordenadas actuales del segador <style=\"UIGreen\">{0}</style>. Su posición aparecerá indicada en el mapa estelar como una misión. Debemos darle caza al segador de inmediato.",
   "POPUPS_ReaperFoundFooter": "NUEVA MISIÓN: CAZA AL SEGADOR",
   "RESEARCH_VAKIR_RECOVERING_Type": "Vakir herida"
-    }
+}

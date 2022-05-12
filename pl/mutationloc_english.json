@@ -1,5 +1,5 @@
 {
-        "MUTATION_ALL": "Mutacja: wszystko",
+  "MUTATION_ALL": "Mutacja: wszystko",
   "MUTATION_UNAVAILABLE": "Niedostępne",
   "MUTATION_NAME_PlagueBearer_Resistance": "Odporność",
   "MUTATION_NAME_PlagueBearer_Armour": "Pancerz",
@@ -294,4 +294,4 @@
   "MUTATION_DESC_Right_Inactive": "Prawa strona: nieaktywne",
   "MUTATION_DESC_Inactive": "Nieaktywne",
   "MUTATION_DESC_Level": "Poziom {0}"
-    }
+}

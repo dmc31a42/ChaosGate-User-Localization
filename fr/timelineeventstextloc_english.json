@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "FRÈRE ECTAR: Commandant, j'ai des nouvelles inquiétantes\\u00A0: le Technaugure dans le Manufactorum a été surpris en train d'accéder à des archives classées des Grey Knights\\u00A0! C'est sûrement l'œuvre de notre ennemi\\u00A0!",
+  "ADisobedientPupil_Intro1_Text": "FRÈRE ECTAR: Commandant, j'ai des nouvelles inquiétantes\\u00A0: le Technaugure dans le Manufactorum a été surpris en train d'accéder à des archives classées des Grey Knights\\u00A0! C'est sûrement l'œuvre de notre ennemi\\u00A0!",
   "ADisobedientPupil_Intro2_Text": "DOMINUS LUNETE\\u00A0: Dénégation\\u00A0: les scans de corruption sont négatifs et l'interrogatoire n'a fourni aucune donnée en ce sens. La transgression est visiblement le fruit d'une erreur.",
   "ADisobedientPupil_Intro3_Text": "FRÈRE ECTAR: Les serviteurs de Nurgle sont perfides\\u00A0! Nous devrions le purger, lui et ses proches associés.",
   "ADisobedientPupil_Intro4_Text": "DOMINUS LUNETE\\u00A0: Alternative\\u00A0: rétrogradation et restrictions d'accès. Le personnel du Manufactorum est déjà limité.",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:VOUS\\u00A0: Envoyons Ectar enquêter.]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:VOUS\\u00A0: Analysons la situation depuis l'orbite.]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:VOUS\\u00A0: Contournons l'anomalie.]"
-    }
+}

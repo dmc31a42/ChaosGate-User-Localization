@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "IRMÃO ECTAR: Comandante, tenho notícias inquietantes. O videngenheiro destacado para o Manufactorum foi flagrado acessando arquivos restritos dos Cavaleiros Cinzentos! Isso certamente é obra do inimigo!",
+  "ADisobedientPupil_Intro1_Text": "IRMÃO ECTAR: Comandante, tenho notícias inquietantes. O videngenheiro destacado para o Manufactorum foi flagrado acessando arquivos restritos dos Cavaleiros Cinzentos! Isso certamente é obra do inimigo!",
   "ADisobedientPupil_Intro2_Text": "DOMINA LUNETE: Negativo: varreduras de corrupção retornam negativas e interrogatórios não obtiveram nenhum dado relevante. Transgressão de acesso possivelmente foi cometida por engano.",
   "ADisobedientPupil_Intro3_Text": "IRMÃO ECTAR: Os servos de Nurgle são sorrateiros! Ele deve ser expurgado, bem como seus companheiros mais próximos.",
   "ADisobedientPupil_Intro4_Text": "DOMINA LUNETE: Alternativa: rebaixamento e restrição ao acesso. O contingente do Manufactorum já é limitado.",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:VOCÊ: Mandar Ectar para investigar.]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:VOCÊ: Analisar da órbita.]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:VOCÊ: Ignorar a Anomalia.]"
-    }
+}

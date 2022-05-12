@@ -1,5 +1,5 @@
 {
-        "MUTATION_ALL": "Mutación: todas",
+  "MUTATION_ALL": "Mutación: todas",
   "MUTATION_UNAVAILABLE": "No disponible",
   "MUTATION_NAME_PlagueBearer_Resistance": "Resistencia",
   "MUTATION_NAME_PlagueBearer_Armour": "Armadura",
@@ -294,4 +294,4 @@
   "MUTATION_DESC_Right_Inactive": "Derecha: inactivo",
   "MUTATION_DESC_Inactive": "Inactivo",
   "MUTATION_DESC_Level": "Nivel {0}"
-    }
+}

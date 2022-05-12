@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "VAKIR: Você tem minha atenção, Cavaleiro.",
+  "TalkToVakir_Intro1_Text": "VAKIR: Você tem minha atenção, Cavaleiro.",
   "TalkToVakir_Intro2_Text": "VAKIR: Todos temos trabalho a fazer. Do que você precisa?",
   "TalkToVakir_Intro3_Text": "VAKIR: A Proclamação Mortal é uma nave grande, Comandante. Ainda assim sua presença aqui é constante.",
   "TalkToVakir_Intro4_Text": "VAKIR: Posso ajudar, Comandante?",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "LUNETE: O trabalho nos escudos vacuolares prossegue. É uma área que eu preciso supervisionar pessoalmente, uma vez que os escudos são uma tecnologia de Mechanicum restrito; conhecimento proibido a qualquer um que não tenha a patente de Dominus. Como são prioridade, eu os deixarei totalmente operacionais quanto antes.",
   "TalkToLunete_Outro1_MenuText": "Isso é tudo, por ora.",
   "TalkToLunete_Outro1_MenuTextB": "[b:VOCÊ: Isso é tudo, por ora.]"
-    }
+}

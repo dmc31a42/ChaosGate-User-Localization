@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "VAKIR: Du hast meine Aufmerksamkeit, Ritter.",
+  "TalkToVakir_Intro1_Text": "VAKIR: Du hast meine Aufmerksamkeit, Ritter.",
   "TalkToVakir_Intro2_Text": "VAKIR: Wir haben beide zu arbeiten. Was brauchst du?",
   "TalkToVakir_Intro3_Text": "VAKIR: Die Edikt des Unheils ist ein großes Schiff, Commander, und dennoch bist du immer hier.",
   "TalkToVakir_Intro4_Text": "VAKIR: Kann ich dir helfen, Commander?",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "LUNETE: Die Arbeit an den Deflektorschilden geht weiter. Diesen Bereich werde ich persönlich begutachten, da die Deflektorschilde Mechanicus-versiegelte Technologien sind – sie sind allen verboten, die nicht im Rang eines Dominus stehen. Sie haben Priorität, ich werde sie also vollständig in Betrieb nehmen, sobald ich dazu in der Lage bin.",
   "TalkToLunete_Outro1_MenuText": "Das ist dann fürs Erste alles.",
   "TalkToLunete_Outro1_MenuTextB": "[b:DU: Das ist fürs Erste alles.]"
-    }
+}

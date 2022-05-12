@@ -1,5 +1,5 @@
 {
-        "Reconstruction_Calendar_Construction_In_Progress": "施工進行中",
+  "Reconstruction_Calendar_Construction_In_Progress": "施工進行中",
   "Reconstruction_Calendar_Repair_In_Progress": "修復進行中",
   "Plasma_Reactor_1_Title": "改進反應堆輸出I",
   "Plasma_Reactor_1_Description": "儘管修復等離子體反應堆足以應付最基本的重建工作，但功率輸出仍然不太穩定，無法支持更先進的設施。成效還需要一些時日才能見到，但改進反應堆是重塑[b:法令號]應有榮耀的關鍵一步。",
@@ -451,7 +451,7 @@
   "Enhanced_Focus_Briefing": "自從我首次滲入魔卉的靈能場以來，我了解到了很多。那本來不過是一條裂縫，但如今…我們可以通過魔卉撕出一道巨大的鴻溝。這就需要我對這艘飛船上某些強大的靈能力量加以利用——包括你的，指揮官——但最終我將能夠在軌道上為你的騎士們提供適當的支援。",
   "Enhanced_Focus_Effect": "+1策略槽",
   "Precision_Teleport_Title": "無盡之門",
-  "Precision_Teleport_Description": "我一直在研究你們戰團是如何運用非常規的手段，以傳送器將部隊轉移到戰場上。這種技術展現出了非常出色的靈活性，但我相信我可以進一步擴展這種戰術，無需個人傳送器的幫助來支援地對地的的移動，。",
+  "Precision_Teleport_Description": "我一直在研究你們戰團是如何運用非常規的手段，以傳送器將部隊轉移到戰場上。這種技術展現出了非常出色的靈活性，但我相信我可以進一步擴展這種戰術，無需個人傳送器的幫助來支援地對地的的移動。",
   "Precision_Teleport_Benefit": "獲得策略：無盡之門",
   "Precision_Teleport_Briefing": "從本質上來說，傳送涉及到進出亞空間，原則上不需要使用個人傳送器就可以實現。但如果沒有一個設備在乙太之中充當信標的話，那這種戰術一般而言就會顯得非常冒險…然而，我現在可以指揮[b:法令號]自有的傳送器，在需要的地方創造一個臨時信標。",
   "Precision_Teleport_Effect": "獲得策略：無盡之門",
@@ -550,4 +550,4 @@
   "POPUPS_ReaperFoundDescription": "指揮官，審判官瓦基爾已經同步了毒物法典，並為我們提供了收割者<style=\"UIGreen\">{0}</style>目前的位置坐標。該位置現已被添加成為星圖上的一項任務，我們應該追捕這個收割者並立即消滅它。",
   "POPUPS_ReaperFoundFooter": "新任務：追捕收割者",
   "RESEARCH_VAKIR_RECOVERING_Type": "瓦基爾已受傷"
-    }
+}

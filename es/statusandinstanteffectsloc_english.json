@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "Purificar",
+  "INSTANT_EFFECT_NAME_Purify": "Purificar",
   "INSTANT_EFFECT_DESC_Purify": "Los caballeros afectados por el efecto [b:purificar] verán sus desventajas eliminadas inmediatamente.",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "Empujón",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "Los objetivos afectados sufren una violenta sacudida que los aleja del origen del [b:empujón] a una distancia de [g:{param1}].",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "Filos contaminados",
   "STATUS_EFFECT_TOAST_SearingBlades": "Espadas ardientes",
   "STATUS_EFFECT_TOAST_WeaponVirus": "Virus armamentístico"
-    }
+}

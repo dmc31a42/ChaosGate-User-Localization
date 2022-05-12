@@ -1,5 +1,5 @@
 {
-        "COMMON_Cancel": "Cancelar",
+  "COMMON_Cancel": "Cancelar",
   "COMMON_Back": "Voltar",
   "COMMON_Accept": "Aceitar",
   "COMMON_Decline": "Recusar",
@@ -1463,7 +1463,7 @@
   "SECONDARY_OBJECTIVE_NoHeal": "Vença a missão sem curar",
   "SECONDARY_OBJECTIVE_NoWill": "Vença a missão sem usar determinação",
   "SECONDARY_OBJECTIVE_MissionTimer": "Vença a missão em {0} turnos",
-  "SECONDARY_OBJECTIVE_WeaponKill": "Mate {0} inimigos com uma arma de {1}",
+  "SECONDARY_OBJECTIVE_WeaponKill": "Mate {0} inimigos com: {1}",
   "SECONDARY_OBJECTIVE_WithoutWeapon": "Vença a missão sem usar {0}",
   "SECONDARY_OBJECTIVE_ExtractSeeds": "Extraia {0} sementes",
   "SECONDARY_OBJECTIVE_Bloomspawn": "Destrua {1} crias da Proliferação em um turno ({0}/{1})",
@@ -1488,9 +1488,9 @@
   "DEED_STORM_BOLTER": "Balaceiros da Tormenta",
   "DEED_MELEE_WEAPONS": "Ataques Corpo a Corpo",
   "DEED_HEAVY_WEAPONS": "Armas pesadas",
-  "DEED_WEAPONKILL_MELEE_WEAPONS": "(BP)Melee Weapons",
-  "DEED_WEAPONKILL_RANGED_WEAPONS": "(BP)Ranged Weapons",
-  "DEED_WEAPONKILL_GRENADES": "(BP)Grenades",
+  "DEED_WEAPONKILL_MELEE_WEAPONS": "Armas corpo a corpo",
+  "DEED_WEAPONKILL_RANGED_WEAPONS": "Armas de longo alcance",
+  "DEED_WEAPONKILL_GRENADES": "Granadas",
   "SPREADING_MISSION_Intro": "Destrua esta monstruosidade infernal antes que ela exploda e encha de esporos esta região do espaço.",
   "SPREADING_MISSION_Mission_Success": "Excelente trabalho. Isso deve atrasar os planos deles, pelo menos por um tempo.",
   "SPREADING_MISSION_Knights_Defeated": "Os defensores do contaminador se revelaram poderosos demais. Traga nossos Irmãos de volta antes que precisemos mandar os Apotecários para coletar a semente genética deles.",
@@ -1694,4 +1694,4 @@
   "TOAST_DESC_AdvanceRitual": "{duration} turno(s) até o ritual ser concluído",
   "WARNING_TItle": "Aviso de Fotossensibilidade",
   "WARNING_MainText": "Indivíduos que possuam um quadro epiléptico não detectado podem sofrer convulsões devido ao piscar intermitente de luzes ou de outras formas e padrões em conteúdos de vídeo e de jogos. Pare de jogar imediatamente se apresentar algum dos seguintes sintomas: visão borrada, dor nos olhos, espasmos musculares ou nos olhos, convulsões ou movimentos involuntários, perda de consciência, confusão ou desorientação, apagões ou enxaqueca, desconforto ou dor, dores de cabeça, tontura, náusea ou quaisquer outros sintomas relacionados a enjoo de movimento.\n\nSe você possui problemas epilépticos ou sofre de convulsões, consulte seu médico antes de jogar."
-    }
+}

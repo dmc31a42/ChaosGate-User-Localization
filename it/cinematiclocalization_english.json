@@ -1,5 +1,5 @@
 {
-        "SPEAKER_LUNETE": "Lunete",
+  "SPEAKER_LUNETE": "Lunete",
   "SPEAKER_VAKIR": "Vakir",
   "SPEAKER_ECTAR": "Ectar",
   "SPEAKER_UNKNOWN": "Nave non identificata",
@@ -1125,4 +1125,4 @@
   "Lunete_Flowering_Mission_Failed_3": "Attenzione: il teletrasporto d'emergenza ha un 37% di rischio fatale per i soggetti umani...",
   "Ectar_Flowering_Mission_Failed_4": "Se resta qua giù è morta comunque, fatelo subito!",
   "Lunete_Flowering_Mission_Failed_5": "Avvio immediatamente il protocollo!"
-    }
+}

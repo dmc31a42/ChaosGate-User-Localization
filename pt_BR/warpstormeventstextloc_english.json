@@ -1,5 +1,5 @@
 {
-        "SeedResonance_Intro1_Text": "INQUISIDORA VAKIR: Comandante, estou preocupada com as Sementes da Proliferação no Libris. Vária delas começaram a ressoar ativamente em resposta às energias da distorção fustigando o casco. Sugiro reverter o curso e encontrar outro caminho.",
+  "SeedResonance_Intro1_Text": "INQUISIDORA VAKIR: Comandante, estou preocupada com as Sementes da Proliferação no Libris. Vária delas começaram a ressoar ativamente em resposta às energias da distorção fustigando o casco. Sugiro reverter o curso e encontrar outro caminho.",
   "SeedResonance_Choice0_MenuText": "Voltar",
   "SeedResonance_Choice1_MenuText": "Atravessar a tempestade.",
   "SeedResonance_Choice2_MenuText": "Destruir as Sementes.",
@@ -22,4 +22,4 @@
   "ServitorsCorrupted_Choice0_MenuTextB": "[b:VOCÊ: Reverter curso.]",
   "ServitorsCorrupted_Choice1_MenuTextB": "[b:VOCÊ: Atravessar a tempestade.]",
   "ServitorsCorrupted_Choice2_MenuTextB": "[b:VOCÊ: Destruí-los imediatamente!]"
-    }
+}

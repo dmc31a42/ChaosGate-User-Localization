@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Attenzione, una nave Nurgle ci ha seguiti nel Warp. Ha iniziato ad accelerare per intercettare la Editto.",
+  "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Attenzione, una nave Nurgle ci ha seguiti nel Warp. Ha iniziato ad accelerare per intercettare la Editto.",
   "BypassOpportunity_Intro2_Text": "FRATELLO ECTAR: Dovremmo uscire dal Warp e prepararci a ingaggiarli, Comandante!",
   "BypassOpportunity_Intro3_Text": "DOMINA LUNETE: Alternativa, una piccola variazione della rotta combinata con un'accelerazione massima confonderebbe il loro inseguimento, ma la nostra tabella di marcia ne sarebbe compromessa.",
   "BypassOpportunity_Choice0_MenuText": "Tenta la ritirata.",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:TU: Abbordate la nave nemica.]",
   "DelayingTactics_Choice2_MenuTextB": "[b:TU: Aprite il fuoco!]",
   "DelayingTactics_Choice3_MenuTextB": "[b:TU: Scendete sul pianeta.]"
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "Reconstruction_Calendar_Construction_In_Progress": "Construction en cours",
+  "Reconstruction_Calendar_Construction_In_Progress": "Construction en cours",
   "Reconstruction_Calendar_Repair_In_Progress": "Réparation en cours",
   "Plasma_Reactor_1_Title": "Production du réacteur améliorée I",
   "Plasma_Reactor_1_Description": "La réparation du réacteur à plasma nous a permis de mener les travaux de reconstruction les plus basiques, mais l'alimentation reste trop instable pour les équipements avancés. Les résultats ne seront pas immédiatement visibles, mais la stimulation du réacteur constitue une étape cruciale pour redonner au [b:Sentencieux] sa gloire d'antan.",
@@ -550,4 +550,4 @@
   "POPUPS_ReaperFoundDescription": "Commandant, l'Inquisitrice Vakir a synchronisé le Codex Toxicus et nous a fourni les coordonnées de la localisation actuelle du Faucheur <style=\"UIGreen\">{0}</style>. Cet emplacement est désormais ajouté en tant que Mission sur la Carte stellaire\\u00A0: nous devrions traquer ce Faucheur et le détruire immédiatement.",
   "POPUPS_ReaperFoundFooter": "NOUVELLE MISSION\\u00A0: POURCHASSER LE FAUCHEUR",
   "RESEARCH_VAKIR_RECOVERING_Type": "Vakir blessée"
-    }
+}

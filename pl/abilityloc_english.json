@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "Zwiększenie siły woli",
+  "ABILITY_NAME_Chaplain_BonusWP": "Zwiększenie siły woli",
   "ABILITY_DESC_Chaplain_BonusWP": "Ten rycerz zyskuje na stałe [g:+{willpowerAmount}] do [b:maksymalnej SW].",
   "ABILITY_NAME_Chaplain_Provoke": "Prowokacja",
   "ABILITY_DESC_Chaplain_Provoke": "Skieruj [b:wybuch] na obszar o promieniu [g:{radius}] w odległości do [g:{range}], aby wywołać efekt {statusEffect}.",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "Wszystkie [b:ataki dystansowe] kierowane do lub z tego obszaru zadają [g:-{damageReduction}] OBR.",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "Chmura much",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "Sojusznicy namierzani [b:atakami dystansowymi] kierowanymi do lub z tej chmury otrzymują [g:-{damageReduction}] do OBR."
-    }
+}

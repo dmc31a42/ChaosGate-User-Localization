@@ -1,5 +1,5 @@
 {
-        "STAT_ICON_DISPLAY_BaseKey": "[{0}:{1}]",
+  "STAT_ICON_DISPLAY_BaseKey": "[{0}:{1}]",
   "STAT_ICON_DISPLAY_Basic": "{0}",
   "STAT_ICON_DISPLAY_Percent": "{0}%",
   "STAT_ICON_DISPLAY_Plus": "+{0}",
@@ -902,4 +902,4 @@
   "WEAPON_TYPE_Ranged": "Arma a distanza",
   "WEAPON_TYPE_AOE": "Arma ad area",
   "WEAPON_Multi_Ability_Display": "Conferisce l'accesso a {0}."
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "SPEAKER_LUNETE": "卢内特",
+  "SPEAKER_LUNETE": "卢内特",
   "SPEAKER_VAKIR": "瓦基尔",
   "SPEAKER_ECTAR": "埃克塔",
   "SPEAKER_UNKNOWN": "不明舰船",
@@ -1125,4 +1125,4 @@
   "Lunete_Flowering_Mission_Failed_3": "警告：紧急传送对人体有37%的致死风险---",
   "Ectar_Flowering_Mission_Failed_4": "---如果她呆在下面她就死定了，现在就开始！",
   "Lunete_Flowering_Mission_Failed_5": "立即启动协议！"
-    }
+}

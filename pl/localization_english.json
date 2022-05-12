@@ -1,5 +1,5 @@
 {
-        "COMMON_Cancel": "Anuluj",
+  "COMMON_Cancel": "Anuluj",
   "COMMON_Back": "Wstecz",
   "COMMON_Accept": "Akceptuj",
   "COMMON_Decline": "Odrzuć",
@@ -1463,7 +1463,7 @@
   "SECONDARY_OBJECTIVE_NoHeal": "Ukończ pomyślnie misję bez leczenia",
   "SECONDARY_OBJECTIVE_NoWill": "Ukończ pomyślnie misję bez używania siły woli",
   "SECONDARY_OBJECTIVE_MissionTimer": "Ukończ pomyślnie misję w ciągu {0} tur",
-  "SECONDARY_OBJECTIVE_WeaponKill": "Zabij {0} wrogów bronią: {1}",
+  "SECONDARY_OBJECTIVE_WeaponKill": "Zabij {0} wrogów {1}",
   "SECONDARY_OBJECTIVE_WithoutWeapon": "Ukończ pomyślnie misję bez używania zdolności {0}",
   "SECONDARY_OBJECTIVE_ExtractSeeds": "Wydobądź ziarna: {0}",
   "SECONDARY_OBJECTIVE_Bloomspawn": "Zniszcz Byty Wykwitu w jednej turze: {1} ({0}/{1})",
@@ -1488,9 +1488,9 @@
   "DEED_STORM_BOLTER": "Pociski burzy",
   "DEED_MELEE_WEAPONS": "Ataki wręcz",
   "DEED_HEAVY_WEAPONS": "Broń ciężka",
-  "DEED_WEAPONKILL_MELEE_WEAPONS": "(PL)Melee Weapons",
-  "DEED_WEAPONKILL_RANGED_WEAPONS": "(PL)Ranged Weapons",
-  "DEED_WEAPONKILL_GRENADES": "(PL)Grenades",
+  "DEED_WEAPONKILL_MELEE_WEAPONS": "bronią białą",
+  "DEED_WEAPONKILL_RANGED_WEAPONS": "bronią dystansową",
+  "DEED_WEAPONKILL_GRENADES": "granatami",
   "SPREADING_MISSION_Intro": "Zniszcz to piekielne monstrum, zanim eksploduje i zaleje ten obszar kosmosu zarodnikami.",
   "SPREADING_MISSION_Mission_Success": "Świetna robota – to ich opóźni, przynajmniej na jakiś czas.",
   "SPREADING_MISSION_Knights_Defeated": "Obrońcy Rozsiewacza okazali się zbyt silni – wycofaj naszych braci, zanim będziemy musieli wysłać Konsyliarzy, żeby zebrali ich genoziarna.",
@@ -1694,4 +1694,4 @@
   "TOAST_DESC_AdvanceRitual": "Liczba tur do zakończenia rytuału: {duration}",
   "WARNING_TItle": "Ostrzeżenie o nadwrażliwości na światło",
   "WARNING_MainText": "U niektórych osób mogą występować niezdiagnozowane stany padaczkowe, w wyniku których mogą one doznawać napadów związanych z błyskającymi lub migoczącymi światłami albo kształtami lub wzorami geometrycznymi w treściach wideo lub grach. Natychmiast przerwij grę, jeśli wystąpią następujące objawy: zaburzenia widzenia, ból oczu, drgawki oczu lub mięśni, konwulsje lub niezamierzone ruchy, utrata świadomości, dezorientacja, utrata przytomności lub migrena, uczucie dyskomfortu lub bólu, bóle głowy, zawroty głowy, mdłości lub objawy podobne do choroby lokomocyjnej.\n\nJeśli cierpisz na epilepsję lub miewasz napady, skonsultuj się z lekarzem przed rozpoczęciem gry."
-    }
+}

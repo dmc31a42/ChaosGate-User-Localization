@@ -1,5 +1,5 @@
 {
-        "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomancja: żelazne ramię",
+  "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomancja: żelazne ramię",
   "CLASS_PERK_Apothecary_IronArmBiomancy_SubTitle": "Dar psioniczny",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_Title": "Biomancja: żelazne ramię – ulepszenie czasu trwania",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_SubTitle": "Ulepszenie – czas trwania",
@@ -562,4 +562,4 @@
   "ABILITY_CLASS_TYPE_NAME_ForceStrike": "Atak siłowy",
   "ABILITY_CLASS_TYPE_SUBTITLE_ForceStrike": "Atak siłowy",
   "ABILITY_CLASS_TYPE_DESC_ForceStrike": "[b:Atak siłowy] ulepsza ataki wręcz rycerza wyposażonego w broń mocy Nemezis, zwiększając jego siłę woli."
-    }
+}

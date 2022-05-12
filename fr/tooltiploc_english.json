@@ -1,6 +1,6 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "Journal des événements de campagne",
-  "TOOLTIP_CampaignTimeline_Description": "Le nombre de jours solaires tyrtéens écoulés pendant la campagne",
+  "TOOLTIP_CampaignTimeline_Title": "Journal des événements de campagne",
+  "TOOLTIP_CampaignTimeline_Description": "Le nombre de jours solaires tyrtéens écoulés pendant la campagne.",
   "TOOLTIP_PlanetView_Title": "Vue de la planète",
   "TOOLTIP_StarMap_Title": "Carte stellaire",
   "TOOLTIP_Strategium_Title": "Strategium",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "Augmente la portée des Servocrânes équipés en combat.",
   "TOOLTIP_StunDamage_Title": "Bonus de dégât d'Étourdissement",
   "TOOLTIP_StunDamage_Description": "Confère un bonus de dégâts d'Étourdissement lorsque cette arme touche une cible. Les cibles étourdies encaisseront toujours un coup critique lors de la prochaine attaque subie et peuvent être [b:exécutées] si elles ont un point faible effectif."
-    }
+}

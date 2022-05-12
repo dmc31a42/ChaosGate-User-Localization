@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "VAKIR: Słucham, rycerzu.",
+  "TalkToVakir_Intro1_Text": "VAKIR: Słucham, rycerzu.",
   "TalkToVakir_Intro2_Text": "VAKIR: Oboje jesteśmy zajęci. Czego potrzebujesz?",
   "TalkToVakir_Intro3_Text": "VAKIR: Zgubny Edykt jest ogromny, Dowódco, a jednak ciągle cię tu znajduję.",
   "TalkToVakir_Intro4_Text": "VAKIR: W czym mogę pomóc, Dowódco?",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "LUNETE: Trwają prace nad tarczami próżniowymi. Muszę nadzorować ten aspekt osobiście, ponieważ tarcze próżniowe to tajna technologia Mechanicum – wiedza zakazana dla każdej istoty niebędącej Dominusem. Są one priorytetem, więc doprowadzę je do pełnej sprawności, gdy tylko będę w stanie.",
   "TalkToLunete_Outro1_MenuText": "Na razie to wszystko.",
   "TalkToLunete_Outro1_MenuTextB": "[b:TY: Na razie to wszystko.]"
-    }
+}

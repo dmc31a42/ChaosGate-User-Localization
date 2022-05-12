@@ -1,5 +1,5 @@
 {
-        "Event_Common_Close": "Zamknij",
+  "Event_Common_Close": "Zamknij",
   "Event_Common_Continue": "Kontynuuj",
   "Event_ADisobedientPupil_Title": "Krnąbrny uczeń",
   "Event_ADisobedientPupil_SubTitle": "Nieuprawniony dostęp",
@@ -587,4 +587,4 @@
   "MustAcceptAllDeeds_Description": "Należy zaakceptować wszystkie chwalebne czyny",
   "DestroyAReaper_Title": "Zadanie: Zniszcz Żniwiarza",
   "DestroyAReaper_Description": "Kai będzie niezadowolony, jeśli nie wykonasz zadania"
-    }
+}

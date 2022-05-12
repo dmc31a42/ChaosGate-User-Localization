@@ -1,5 +1,5 @@
 {
-        "COMMON_Cancel": "取消",
+  "COMMON_Cancel": "取消",
   "COMMON_Back": "返回",
   "COMMON_Accept": "接受",
   "COMMON_Decline": "拒绝",
@@ -1463,7 +1463,7 @@
   "SECONDARY_OBJECTIVE_NoHeal": "在未进行治疗的情况下完成任务",
   "SECONDARY_OBJECTIVE_NoWill": "在未使用毅力值的情况下完成任务",
   "SECONDARY_OBJECTIVE_MissionTimer": "在{0}回合内完成任务",
-  "SECONDARY_OBJECTIVE_WeaponKill": "使用{1}武器击杀{0}个敌人",
+  "SECONDARY_OBJECTIVE_WeaponKill": "使用{1}击杀{0}个敌人",
   "SECONDARY_OBJECTIVE_WithoutWeapon": "在未使用{0}的情况下完成任务",
   "SECONDARY_OBJECTIVE_ExtractSeeds": "提取{0}颗种子",
   "SECONDARY_OBJECTIVE_Bloomspawn": "在单个回合中摧毁{1}个魔卉孽障 ({0}/{1})",
@@ -1488,9 +1488,9 @@
   "DEED_STORM_BOLTER": "暴风爆矢枪",
   "DEED_MELEE_WEAPONS": "近战攻击",
   "DEED_HEAVY_WEAPONS": "重型武器",
-  "DEED_WEAPONKILL_MELEE_WEAPONS": "(SC)Melee Weapons",
-  "DEED_WEAPONKILL_RANGED_WEAPONS": "(SC)Ranged Weapons",
-  "DEED_WEAPONKILL_GRENADES": "(SC)Grenades",
+  "DEED_WEAPONKILL_MELEE_WEAPONS": "近战武器",
+  "DEED_WEAPONKILL_RANGED_WEAPONS": "远程武器",
+  "DEED_WEAPONKILL_GRENADES": "手雷",
   "SPREADING_MISSION_Intro": "在这个恶魔畸兽爆炸和用孢子淹没这片太空区域之前摧毁它",
   "SPREADING_MISSION_Mission_Success": "干得漂亮，这样至少能延缓他们的计划一段时间",
   "SPREADING_MISSION_Knights_Defeated": "事实证明，蔓延者的防御部队太多了，在我们不得不派药剂师去收集基因种子之前，把我们的修士们召唤回来吧",
@@ -1694,4 +1694,4 @@
   "TOAST_DESC_AdvanceRitual": "{duration}回合直至仪式完成",
   "WARNING_TItle": "光敏警告",
   "WARNING_MainText": "部分人群可能存在未查出的癫痫症状，并可能因视频内容或游戏中的闪烁光亮或几何形状和图案而发作。如果您出现以下症状，请立即停止游戏：目眩、眼部疼痛、眼部或肌肉抽搐、抽搐或无意识动作、失去意识、意识恍惚或定向障碍、眩晕或偏头痛、不适或疼痛、头痛、头晕、恶心或类似的晕动病症状。\n\n如果您存在癫痫症状或癫痫发作，请在游戏前咨询医生。"
-    }
+}

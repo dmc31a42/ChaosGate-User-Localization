@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "FRATELLO ECTAR: Comandante, ho notizie preoccupanti... Il machinomante assegnato al Manufactorum è stato sorpreso ad accedere archivi proibiti dei Grey Knights! È indubbiamente opera del nemico!",
+  "ADisobedientPupil_Intro1_Text": "FRATELLO ECTAR: Comandante, ho notizie preoccupanti... Il machinomante assegnato al Manufactorum è stato sorpreso ad accedere archivi proibiti dei Grey Knights! È indubbiamente opera del nemico!",
   "ADisobedientPupil_Intro2_Text": "DOMINA LUNETE: Negazione, le scansioni per la corruzione sono risultate negative e l'interrogatorio non ha estratto dati rilevanti. Probabilmente, la trasgressione è stata un semplice errore.",
   "ADisobedientPupil_Intro3_Text": "FRATELLO ECTAR: I servitori di Nurgle sono subdoli! Dovrebbe essere epurato, insieme ai suoi collaboratori stretti.",
   "ADisobedientPupil_Intro4_Text": "DOMINA LUNETE: Alternativa, degradazione e limitazione del suo accesso. Il personale del Manufactorum è già limitato.",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:TU: Inviate Ectar a indagare.]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:TU: Analizzate l'anomalia dall'orbita.]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:TU: Aggirate l'anomalia.]"
-    }
+}

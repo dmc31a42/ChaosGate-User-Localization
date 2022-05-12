@@ -1,5 +1,5 @@
 {
-        "CREDITS_CEO_Creative_Director": "CEO & Creative Director",
+  "CREDITS_CEO_Creative_Director": "CEO & Creative Director",
   "CREDITS_CTO": "CTO",
   "CREDITS_Technical_Director": "Technical Director",
   "CREDITS_Art_Director": "Art Director",
@@ -41,7 +41,7 @@
   "CREDITS_Draigo": "Supreme Grandmaster Kaldor Draigo",
   "CREDITS_Agravain": "Force Commander Agravain",
   "CREDITS_Aeger_Malathian_Cruciatus": "Aeger / Malathian / Cruciatus",
-  "CREDITS_Morgellus": "Morgellus the Corodded Prince",
+  "CREDITS_Morgellus": "Morgellus the Corroded Prince",
   "CREDITS_Erekhul": "Erekhul",
   "CREDITS_The_Avatar_of_Khaine": "The Avatar of Khaine",
   "CREDITS_The_Astropath": "The Astropath",
@@ -206,4 +206,4 @@
   "CREDITS_Special_Thanks": "Special Thanks",
   "CREDITS_SpecialThanksFull": "Special thanks to everyone at Frontier Foundry and Complex Games for this fantastic game. Also special thanks to all our colleagues at Games Workshop for building and creating the Warhammer 40,000 universe these many years.",
   "CREDITS_Wwise": "Powered by Wwise © 2006 – 2022 Audiokinetic Inc. Alle Rechte vorbehalten."
-    }
+}

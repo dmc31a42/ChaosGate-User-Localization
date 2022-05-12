@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Câmera",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Câmera",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "Use {0}{1}{2}{3} para virar para a catedral.",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "Mover",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "Posicione o cursor aqui e pressione {0} para selecionar a posição.",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "Projetos de pesquisa avançados precisam de sementes para iniciar.",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "Cavaleiros Feridos",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "Depois de uma batalha, seus Cavaleiros Feridos precisam se recuperar. Ainda é possível alocá-los em missões de combate, mas seu máximo de PV sofrerá uma penalidade."
-    }
+}

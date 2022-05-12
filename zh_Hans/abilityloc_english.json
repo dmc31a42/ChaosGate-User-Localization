@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "升级毅力值",
+  "ABILITY_NAME_Chaplain_BonusWP": "升级毅力值",
   "ABILITY_DESC_Chaplain_BonusWP": "该骑士可永久获得[g:+{willpowerAmount}]点[b:最大毅力值] 。",
   "ABILITY_NAME_Chaplain_Provoke": "激怒",
   "ABILITY_DESC_Chaplain_Provoke": "在[g:{range}]距离内发动范围为[g:{radius}]的[b:爆炸]以施加{statusEffect}。",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "所有来自或进入此区域的[b:远程攻击]造成[g:-{damageReduction}]点伤害。",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "苍蝇乌云",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "成为来自或进入此乌云的[b:远程攻击]目标的盟友受到[g:-{damageReduction}]点伤害。"
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "COMMON_Cancel": "Abbrechen",
+  "COMMON_Cancel": "Abbrechen",
   "COMMON_Back": "Zurück",
   "COMMON_Accept": "Akzeptieren",
   "COMMON_Decline": "Ablehnen",
@@ -1463,7 +1463,7 @@
   "SECONDARY_OBJECTIVE_NoHeal": "Mission ohne Heilen gewinnen",
   "SECONDARY_OBJECTIVE_NoWill": "Mission ohne Einsatz von Willenskraft gewinnen",
   "SECONDARY_OBJECTIVE_MissionTimer": "Mission in {0} Zügen gewinnen",
-  "SECONDARY_OBJECTIVE_WeaponKill": "{0} Gegner mit einer {1}-Waffe töten",
+  "SECONDARY_OBJECTIVE_WeaponKill": "Töte {0} Gegner mit: {1}",
   "SECONDARY_OBJECTIVE_WithoutWeapon": "Mission ohne Einsatz von {0} gewinnen",
   "SECONDARY_OBJECTIVE_ExtractSeeds": "{0} Saaten extrahieren",
   "SECONDARY_OBJECTIVE_Bloomspawn": "{1} Blüten in einem einzigen Zug zerstören ({0}/{1})",
@@ -1488,9 +1488,9 @@
   "DEED_STORM_BOLTER": "Sturmbolter",
   "DEED_MELEE_WEAPONS": "Nahkampfangriffe",
   "DEED_HEAVY_WEAPONS": "Schwere Waffen",
-  "DEED_WEAPONKILL_MELEE_WEAPONS": "(GE)Melee Weapons",
-  "DEED_WEAPONKILL_RANGED_WEAPONS": "(GE)Ranged Weapons",
-  "DEED_WEAPONKILL_GRENADES": "(GE)Grenades",
+  "DEED_WEAPONKILL_MELEE_WEAPONS": "Nahkampfwaffen",
+  "DEED_WEAPONKILL_RANGED_WEAPONS": "Fernkampfwaffen",
+  "DEED_WEAPONKILL_GRENADES": "Granaten",
   "SPREADING_MISSION_Intro": "Zerstöre diese Höllenmonstrosität, bevor sie explodiert und diesen Bereich des Weltraums mit Sporen verseucht.",
   "SPREADING_MISSION_Mission_Success": "Hervorragende Arbeit, das sollte ihre Pläne für eine Weile verzögern.",
   "SPREADING_MISSION_Knights_Defeated": "Die Verteidiger des Streuers haben sich als zu stark erwiesen. Bring unsere Brüder zurück, bevor wir Apothecarien schicken müssen, um ihre Gensaat zu bergen.",
@@ -1694,4 +1694,4 @@
   "TOAST_DESC_AdvanceRitual": "{duration} Zug/Züge bis zum Abschluss des Rituals",
   "WARNING_TItle": "Epilepsiewarnung",
   "WARNING_MainText": "Bei einigen Personen kann eine unerkannte epileptische Erkrankung vorliegen, die durch blinkende oder flackernde Lichter oder geometrische Formen und Muster in Videoinhalten oder Spielen ausgelöst wird. Brechen Sie das Spiel sofort ab, wenn Sie die folgenden Symptome bemerken: verändertes Sehvermögen, Augenschmerzen, Augen- oder Muskelzucken, Krämpfe oder unwillkürliche Bewegungen, Bewusstseinsverlust, Verwirrung oder Desorientierung, Blackout oder Migräne, Unwohlsein oder Schmerzen, Kopfschmerzen, Schwindel, Übelkeit oder ähnliche Symptome wie Reisekrankheit.\n\nWenn Sie an Epilepsie oder Anfällen leiden, konsultieren Sie bitte Ihren Arzt, bevor Sie spielen."
-    }
+}

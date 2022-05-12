@@ -1,5 +1,5 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "Cronología de la campaña",
+  "TOOLTIP_CampaignTimeline_Title": "Cronología de la campaña",
   "TOOLTIP_CampaignTimeline_Description": "Los días solares tirteanos que han pasado desde el inicio de la campaña.",
   "TOOLTIP_PlanetView_Title": "Vista planetaria",
   "TOOLTIP_StarMap_Title": "Mapa estelar",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "Aumenta la distancia de las servocalaveras equipadas en combate.",
   "TOOLTIP_StunDamage_Title": "Bonificación al daño de aturdimiento",
   "TOOLTIP_StunDamage_Description": "Otorga una bonificación al daño de aturdimiento que inflige esta arma al objetivo. Los objetivos aturdidos siempre reciben un golpe crítico en el siguiente ataque contra ellos y se les puede [b:ejecutar] si tienen un punto objetivo válido."
-    }
+}

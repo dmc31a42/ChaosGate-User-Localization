@@ -1,5 +1,5 @@
 {
-        "WARP_SURGE_FROZEN": "Elevação da Distorção Congelada",
+  "WARP_SURGE_FROZEN": "Elevação da Distorção Congelada",
   "COMBAT_EVENT_TYPE_BossPhase": "Habilidade de crise",
   "COMBAT_EVENT_TYPE_NurglingSwarm": "Enxame de Nurglídeos",
   "COMBAT_EVENT_TYPE_PowerOfTheBloom": "Poder da Proliferação",
@@ -167,4 +167,4 @@
   "STRATAGEM_DOMINATE_DESCRIPTION": "Alveje um [b:inimigo]: {statusEffect}.",
   "WARP_SURGE_WEAPON_VIRUS_TOAST": "Munição Destruída",
   "WARP_SURGE_RELENTLESS_HOST_TOAST": "Imune (atordoamento)"
-    }
+}

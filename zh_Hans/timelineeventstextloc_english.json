@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "埃克塔修士：指挥官，我有个令人不安的消息：工厂里的高级引擎先知在访问受限的灰骑士档案时被抓个正着！这肯定是敌人指使的！",
+  "ADisobedientPupil_Intro1_Text": "埃克塔修士：指挥官，我有个令人不安的消息：工厂里的高级引擎先知在访问受限的灰骑士档案时被抓个正着！这肯定是敌人指使的！",
   "ADisobedientPupil_Intro2_Text": "主教卢内特：拒绝：腐化扫描结果为阴性，审讯也没有提取到相关数据。越界访问可能只是失误。",
   "ADisobedientPupil_Intro3_Text": "埃克塔修士：纳垢的仆从们十分狡猾！他应该连同他所有的密切同事一起被除掉。",
   "ADisobedientPupil_Intro4_Text": "主教卢内特：备选策略：降级并限制访问。工厂人员已经十分有限。",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:你：派埃克塔前往调查。]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:你：从轨道上进行分析。]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:你：绕过此次异常现象。]"
-    }
+}

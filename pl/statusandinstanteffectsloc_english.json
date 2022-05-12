@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "Oczyszczenie",
+  "INSTANT_EFFECT_NAME_Purify": "Oczyszczenie",
   "INSTANT_EFFECT_DESC_Purify": "Rycerze pod wpływem efektu [b:Oczyszczenie] natychmiast tracą przypadłości.",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "Odrzucenie",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "Cele zostają brutalnie odepchnięte od źródła efektu [b:Odrzucenie] na odległość [g:{param1}].",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "Skażone ostrza",
   "STATUS_EFFECT_TOAST_SearingBlades": "Piekące ostrza",
   "STATUS_EFFECT_TOAST_WeaponVirus": "Wirus broni"
-    }
+}

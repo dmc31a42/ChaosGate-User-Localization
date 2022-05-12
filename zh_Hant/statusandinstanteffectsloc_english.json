@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "淨化",
+  "INSTANT_EFFECT_NAME_Purify": "淨化",
   "INSTANT_EFFECT_DESC_Purify": "受到[b:淨化]影響的騎士，苦難效果會立即被移除。",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "擊退",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "受影響的目標會被猛烈地推離[b:擊退]源頭[g:{param1}]距離。",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "污染之刃",
   "STATUS_EFFECT_TOAST_SearingBlades": "灼熱之刃",
   "STATUS_EFFECT_TOAST_WeaponVirus": "武器病毒"
-    }
+}

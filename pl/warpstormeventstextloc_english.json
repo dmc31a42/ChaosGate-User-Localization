@@ -1,5 +1,5 @@
 {
-        "SeedResonance_Intro1_Text": "INKWIZYTORKA VAKIR: Dowódco, niepokoją mnie przechowywane w Libris ziarna Wykwitu. Kilka zaczęło aktywnie rezonować z napierającą na kadłub energią Osnowy. Powinniśmy zawrócić i poszukać innej drogi.",
+  "SeedResonance_Intro1_Text": "INKWIZYTORKA VAKIR: Dowódco, niepokoją mnie przechowywane w Libris ziarna Wykwitu. Kilka zaczęło aktywnie rezonować z napierającą na kadłub energią Osnowy. Powinniśmy zawrócić i poszukać innej drogi.",
   "SeedResonance_Choice0_MenuText": "Zawróć.",
   "SeedResonance_Choice1_MenuText": "Kontynuuj podroż przez burzę.",
   "SeedResonance_Choice2_MenuText": "Zniszcz ziarna.",
@@ -22,4 +22,4 @@
   "ServitorsCorrupted_Choice0_MenuTextB": "[b:TY: Zawróćmy.]",
   "ServitorsCorrupted_Choice1_MenuTextB": "[b:TY: Kontynuujmy podroż przez burzę.]",
   "ServitorsCorrupted_Choice2_MenuTextB": "[b:TY: Zniszczyć je natychmiast!]"
-    }
+}

@@ -144,7 +144,7 @@
   "COMBAT_CONTEXTUAL_TUTORIAL_First_Armour_Instruction": "Nurgle's regenerative properties cause their [b:Armour] to restored at the beginning of the Enemy Turn.",
   "COMBAT_CONTEXTUAL_TUTORIAL_Willpower_Recovery_Title": "Willpower Recovery",
   "COMBAT_CONTEXTUAL_TUTORIAL_Willpower_Recovery_Body": "Commander, your Knights will recover WP when they destroy most enemies, fueling further use of their psychic abilities.",
-  "COMBAT_CONTEXTUAL_TUTORIAL_Willpower_Recovery_Instruction": "Your Knight gains +1 WP for destroying most Enemies.",
+  "COMBAT_CONTEXTUAL_TUTORIAL_Willpower_Recovery_Instruction": "Your Knight can gain +1 WP per action for destroying most Enemies.",
   "COMBAT_CONTEXTUAL_TUTORIAL_Wails_of_Chaos_Title": "Wails of Chaos",
   "COMBAT_CONTEXTUAL_TUTORIAL_Wails_of_Chaos_Body": "Every turn, until you begin the ritual, the Chaos Gate will increase the number of reinforcements it can summon to oppose you. Move with haste!",
   "COMBAT_CONTEXTUAL_TUTORIAL_Ritual_of_Destruction_Title": "Ritual of Destruction",

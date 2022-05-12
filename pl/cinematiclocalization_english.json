@@ -1,5 +1,5 @@
 {
-        "SPEAKER_LUNETE": "Lunete",
+  "SPEAKER_LUNETE": "Lunete",
   "SPEAKER_VAKIR": "Vakir",
   "SPEAKER_ECTAR": "Ectar",
   "SPEAKER_UNKNOWN": "Niezidentyfikowany statek",
@@ -1125,4 +1125,4 @@
   "Lunete_Flowering_Mission_Failed_3": "Ostrzeżenie: W przypadku awaryjnej teleportacji istnieje 37-procentowe ryzyko śmierci ludzkich obiektów…",
   "Ectar_Flowering_Mission_Failed_4": "Umrze, jeśli tam zostanie. Wykonać natychmiast!",
   "Lunete_Flowering_Mission_Failed_5": "Natychmiastowe rozpoczęcie protokołu!"
-    }
+}

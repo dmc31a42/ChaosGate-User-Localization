@@ -1,5 +1,5 @@
 {
-        "SeedResonance_Intro1_Text": "審判官瓦基爾：指揮官，我很擔心船上圖書室裡的魔卉種子——它們之中有一些已經開始出現了活躍的共鳴現象，這是對亞空間能量衝擊船體的反應。我建議我們調轉航線，另尋他路。",
+  "SeedResonance_Intro1_Text": "審判官瓦基爾：指揮官，我很擔心船上圖書室裡的魔卉種子——它們之中有一些已經開始出現了活躍的共鳴現象，這是對亞空間能量衝擊船體的反應。我建議我們調轉航線，另尋他路。",
   "SeedResonance_Choice0_MenuText": "返航",
   "SeedResonance_Choice1_MenuText": "繼續穿越風暴。",
   "SeedResonance_Choice2_MenuText": "摧毀種子。",
@@ -22,4 +22,4 @@
   "ServitorsCorrupted_Choice0_MenuTextB": "[b:你：調轉航線。]",
   "ServitorsCorrupted_Choice1_MenuTextB": "[b:你：繼續穿越風暴。]",
   "ServitorsCorrupted_Choice2_MenuTextB": "[b:你：立即摧毀它們！]"
-    }
+}

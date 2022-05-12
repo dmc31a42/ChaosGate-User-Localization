@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "瓦基爾：我聽著，騎士。",
+  "TalkToVakir_Intro1_Text": "瓦基爾：我聽著，騎士。",
   "TalkToVakir_Intro2_Text": "瓦基爾：我們都有工作要忙，你需要什麼？",
   "TalkToVakir_Intro3_Text": "瓦基爾：邪惡法令號是一艘很大的船，指揮官，但你卻老是在這兒出現。",
   "TalkToVakir_Intro4_Text": "瓦基爾：我能幫你什麼嗎，指揮官？",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "盧內特：修復虛空護盾的工作仍在繼續。這塊區域我必須親自監督，因為虛空護盾是機械神教的絕密技術——嚴禁讓任何非主教等級人員知道。這仍然是我們的最重要事項，所以我會盡快讓它們全面恢復運轉。",
   "TalkToLunete_Outro1_MenuText": "暫時就這些。",
   "TalkToLunete_Outro1_MenuTextB": "[b:你：暫時就這些。]"
-    }
+}

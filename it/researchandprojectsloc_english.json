@@ -1,5 +1,5 @@
 {
-        "Reconstruction_Calendar_Construction_In_Progress": "Costruzione in corso",
+  "Reconstruction_Calendar_Construction_In_Progress": "Costruzione in corso",
   "Reconstruction_Calendar_Repair_In_Progress": "Riparazioni in corso",
   "Plasma_Reactor_1_Title": "Rendimento reattore migliorato I",
   "Plasma_Reactor_1_Description": "Sebbene riparare il reattore plasma sia sufficiente per buona parte delle ricostruzioni, il rendimento energetico è ancora troppo instabile per supportare le strutture più avanzate. Occorrerà tempo per vedere dei risultati, ma potenziare il reattore è un passo fondamentale per riportare la [b:Editto] alla sua gloria passata.",
@@ -550,4 +550,4 @@
   "POPUPS_ReaperFoundDescription": "Comandante, l'Inquisitrice Vakir ha sintonizzato il Codex Toxicus, fornendoci le coordinate dell'attuale posizione del Mietitore <style=\"UIGreen\">{0}</style>. Tale posizione è stata aggiunta alla mappa stellare come missione, dovremmo dare la caccia a questo Mietitore e distruggerlo immediatamente.",
   "POPUPS_ReaperFoundFooter": "NUOVA MISSIONE: DAI LA CACCIA AL MIETITORE",
   "RESEARCH_VAKIR_RECOVERING_Type": "Vakir ferita"
-    }
+}

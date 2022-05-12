@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "Améliorer la Volonté",
+  "ABILITY_NAME_Chaplain_BonusWP": "Améliorer la Volonté",
   "ABILITY_DESC_Chaplain_BonusWP": "Ce Chevalier gagne [g:+{willpowerAmount}] [b:Volonté Max] de façon permanente.",
   "ABILITY_NAME_Chaplain_Provoke": "Provocation",
   "ABILITY_DESC_Chaplain_Provoke": "Ciblez une [b:Explosion] sur la zone [g:{radius}] à une distance de [g:{range}] pour infliger {statusEffect}.",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "Toutes les [b:attaques de tir] ciblées depuis cette zone ou vers elle infligent [g:-{damageReduction}]\\u00A0dégâts.",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "Nuage de mouches",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "Les alliés ciblés par les [b:attaques de tir] exécutées depuis ce nuage ou vers lui subissent [g:-{damageReduction}]\\u00A0dégâts."
-    }
+}

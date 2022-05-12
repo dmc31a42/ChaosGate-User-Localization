@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "主教卢内特：警告：一艘纳垢舰船一直在亚空间尾随我们。该舰船已开始加速，试图拦截法令号。",
+  "BypassOpportunity_Intro1_Text": "主教卢内特：警告：一艘纳垢舰船一直在亚空间尾随我们。该舰船已开始加速，试图拦截法令号。",
   "BypassOpportunity_Intro2_Text": "修士埃克塔：我们应该离开亚空间然后准备交战，指挥官！",
   "BypassOpportunity_Intro3_Text": "主教卢内特：备选策略：我们只需稍微修正一下航线并以最大速度加速应该就能让他们晕头转向，但我们的时间表也会受到影响。",
   "BypassOpportunity_Choice0_MenuText": "尝试撤退。",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:你：登陆敌舰。]",
   "DelayingTactics_Choice2_MenuTextB": "[b:你：开火！]",
   "DelayingTactics_Choice3_MenuTextB": "[b:你：立即部署着陆到这颗星球！]"
-    }
+}

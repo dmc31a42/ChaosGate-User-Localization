@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "納垢邪教分子",
+  "ARCHETYPE_Cultist": "納垢邪教分子",
   "ARCHETYPE_Description_Cultist": "納垢邪教分子單獨而言不是灰騎士的對手，但他們會成群遊蕩，並配備各種武器。",
   "ARCHETYPE_ApostatePreacher": "叛教牧師",
   "ARCHETYPE_Description_ApostatePreacher": "納垢叛教牧師是邪教分子的領袖，可以賜予友軍邪惡賜福。",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "快速恢復",
   "TALENT_NAME_Talent_Guerilla": "宙斯盾能手",
   "CHARACTER_MAX_LEVEL": "最大"
-    }
+}

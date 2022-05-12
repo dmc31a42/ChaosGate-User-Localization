@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "Willenskraft verbessern",
+  "ABILITY_NAME_Chaplain_BonusWP": "Willenskraft verbessern",
   "ABILITY_DESC_Chaplain_BonusWP": "Dieser Ritter erlangt permanent [g:+{willpowerAmount}] [b:max. WP].",
   "ABILITY_NAME_Chaplain_Provoke": "Provozieren",
   "ABILITY_DESC_Chaplain_Provoke": "Visiere mit einer [b:Explosion] einen Bereich von [g:{radius}] in einer Reichweite von [g:{range}] an und verursache {statusEffect}.",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "Alle [b:Distanzangriffe] aus diesem oder in diesen Bereich verursachen [g:-{damageReduction}] SCHADEN.",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "Fliegenwolke",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "Verbündete, die von [b:Distanzangriffen] aus dieser oder in diese Wolke anvisiert werden, erleiden [g:-{damageReduction}] SCHADEN."
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "BRAT ECTAR: Dowódco, przynoszę niepokojące wieści. Przyłapaliśmy wysokiej rangi Inżyproroka na przetrząsaniu zastrzeżonych archiwów Szarych Rycerzy w Manufactorum! To z pewnością sprawka wroga!",
+  "ADisobedientPupil_Intro1_Text": "BRAT ECTAR: Dowódco, przynoszę niepokojące wieści. Przyłapaliśmy wysokiej rangi Inżyproroka na przetrząsaniu zastrzeżonych archiwów Szarych Rycerzy w Manufactorum! To z pewnością sprawka wroga!",
   "ADisobedientPupil_Intro2_Text": "DOMINA LUNETE: Zaprzeczenie – skanowanie w poszukiwaniu skażenia nie przyniosło żadnych niepokojących wyników, podobnie jak przesłuchanie. Naruszenie uprawnień dostępu nastąpiło prawdopodobnie na skutek błędu.",
   "ADisobedientPupil_Intro3_Text": "BRAT ECTAR: Słudzy Nurgle’a są przebiegli! Należy go stracić wraz ze wszystkimi najbliższymi asystentami.",
   "ADisobedientPupil_Intro4_Text": "DOMINA LUNETE: Rozwiązanie alternatywne – degradacja i odebranie uprawnień. Nawet teraz personel Manufactorum nie jest zbyt liczny.",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:TY: Wyślijmy Ectara z misją zwiadowczą.]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:TY: Przeprowadźmy analizy z orbity.]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:TY: Zignorujmy anomalię.]"
-    }
+}

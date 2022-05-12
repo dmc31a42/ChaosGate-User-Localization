@@ -1,5 +1,5 @@
 {
-        "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "钢铁之臂生物术",
+  "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "钢铁之臂生物术",
   "CLASS_PERK_Apothecary_IronArmBiomancy_SubTitle": "灵能赐福",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_Title": "钢铁之臂生物术 - 持续时间升级",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_SubTitle": "升级 - 持续时间",
@@ -562,4 +562,4 @@
   "ABILITY_CLASS_TYPE_NAME_ForceStrike": "强力打击",
   "ABILITY_CLASS_TYPE_SUBTITLE_ForceStrike": "强力打击",
   "ABILITY_CLASS_TYPE_DESC_ForceStrike": "[b:强力打击]可强化骑士的复仇之力近战攻击，获得额外的毅力值。"
-    }
+}

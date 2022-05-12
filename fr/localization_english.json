@@ -1,5 +1,5 @@
 {
-        "COMMON_Cancel": "Annuler",
+  "COMMON_Cancel": "Annuler",
   "COMMON_Back": "Retour",
   "COMMON_Accept": "Accepter",
   "COMMON_Decline": "Refuser",
@@ -1463,7 +1463,7 @@
   "SECONDARY_OBJECTIVE_NoHeal": "Remporter la mission sans utiliser de soin",
   "SECONDARY_OBJECTIVE_NoWill": "Remporter la mission sans utiliser de Volonté",
   "SECONDARY_OBJECTIVE_MissionTimer": "Remporter la mission en {0}\\u00A0tours",
-  "SECONDARY_OBJECTIVE_WeaponKill": "Éliminer {0}\\u00A0ennemis avec une arme de type {1}",
+  "SECONDARY_OBJECTIVE_WeaponKill": "Éliminer {0}\\u00A0ennemis avec\\u00A0: {1}",
   "SECONDARY_OBJECTIVE_WithoutWeapon": "Remporter la mission sans utiliser de {0}",
   "SECONDARY_OBJECTIVE_ExtractSeeds": "Extraire {0}\\u00A0Graines",
   "SECONDARY_OBJECTIVE_Bloomspawn": "Détruire {1}\\u00A0Rejetons d'Éclosion en un seul tour ({0}/{1})",
@@ -1488,9 +1488,9 @@
   "DEED_STORM_BOLTER": "Bolters Storm",
   "DEED_MELEE_WEAPONS": "Attaques de corps-à-corps",
   "DEED_HEAVY_WEAPONS": "Armes lourdes",
-  "DEED_WEAPONKILL_MELEE_WEAPONS": "(FR)Melee Weapons",
-  "DEED_WEAPONKILL_RANGED_WEAPONS": "(FR)Ranged Weapons",
-  "DEED_WEAPONKILL_GRENADES": "(FR)Grenades",
+  "DEED_WEAPONKILL_MELEE_WEAPONS": "Armes de corps-à-corps",
+  "DEED_WEAPONKILL_RANGED_WEAPONS": "Armes de tir",
+  "DEED_WEAPONKILL_GRENADES": "Grenades",
   "SPREADING_MISSION_Intro": "Détruisez cette abomination infernale avant qu'elle n'explose et déverse ses spores dans cette région de l'espace.",
   "SPREADING_MISSION_Mission_Success": "Excellent travail. Cela devrait les ralentir, au moins pour le moment.",
   "SPREADING_MISSION_Knights_Defeated": "Les défenses du propagateur sont trop nombreuses. Rappelez nos Frères avant que nous devions envoyer les Apothicaires récupérer leur matériel génétique sur leurs dépouilles.",
@@ -1694,4 +1694,4 @@
   "TOAST_DESC_AdvanceRitual": "Rituel terminé dans {duration}\\u00A0tour(s)",
   "WARNING_TItle": "Avertissement photosensibilité",
   "WARNING_MainText": "Certaines personnes souffrent de troubles épileptiques non diagnostiqués, et des lumières clignotantes ou vacillantes, des formes ou motifs géométriques dans des vidéos ou des jeux peuvent provoquer une crise. Arrêtez de jouer immédiatement si vous ressentez ces symptômes : vision trouble, douleurs oculaires, spasmes des yeux/muscles, convulsions ou mouvements involontaires, perte de conscience, confusion ou désorientation, évanouissement ou migraine, inconfort ou douleur, maux de tête, vertige, nausée, ou des symptômes du mal des transports.\n\nSi vous êtes épileptique ou subissez des crises, consultez votre médecin avant de jouer."
-    }
+}

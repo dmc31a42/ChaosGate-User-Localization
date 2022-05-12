@@ -1,5 +1,5 @@
 {
-        "SeedResonance_Intro1_Text": "INQUISITRICE VAKIR: Comandante, sono preoccupata per i Semi della Fioritura a bordo, nel Libris. Diversi di questi hanno iniziato a risuonare attivamente in risposta alle energie del Warp che colpiscono lo scafo. Suggerisco d'invertire la rotta e trovare un'altra via.",
+  "SeedResonance_Intro1_Text": "INQUISITRICE VAKIR: Comandante, sono preoccupata per i Semi della Fioritura a bordo, nel Libris. Diversi di questi hanno iniziato a risuonare attivamente in risposta alle energie del Warp che colpiscono lo scafo. Suggerisco d'invertire la rotta e trovare un'altra via.",
   "SeedResonance_Choice0_MenuText": "Torna indietro.",
   "SeedResonance_Choice1_MenuText": "Continua attraverso la tempesta.",
   "SeedResonance_Choice2_MenuText": "Distruggi i Semi.",
@@ -22,4 +22,4 @@
   "ServitorsCorrupted_Choice0_MenuTextB": "[b:TU: Invertite la rotta.]",
   "ServitorsCorrupted_Choice1_MenuTextB": "[b:TU: Continuate attraverso la tempesta.]",
   "ServitorsCorrupted_Choice2_MenuTextB": "[b:TU: Distruggeteli immediatamente.]"
-    }
+}

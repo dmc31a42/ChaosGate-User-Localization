@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Kamera",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Kamera",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "Użyj {0}{1}{2}{3}, aby przesunąć widok do katedry.",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "Ruch",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "Umieść kursor w tym miejscu i naciśnij {0}, aby wybrać pozycję.",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "Inicjowanie zaawansowanych projektów badawczych wymaga ziaren.",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "Ranni rycerze",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "Jeśli powracający z pola bitwy rycerz jest ranny, będzie potrzebował czasu, by dojść do siebie. Rannych rycerzy można nadal wysyłać na misje bojowe, ale będą oni mieli obniżone maks. PŻ."
-    }
+}

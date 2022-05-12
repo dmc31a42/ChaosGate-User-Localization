@@ -1,5 +1,5 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "Linha do Tempo",
+  "TOOLTIP_CampaignTimeline_Title": "Linha do Tempo",
   "TOOLTIP_CampaignTimeline_Description": "Número de dias solares de Tyrtaeus que se passaram nesta campanha até então.",
   "TOOLTIP_PlanetView_Title": "Ver Planeta",
   "TOOLTIP_StarMap_Title": "Mapa Estelar",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "Aumenta o alcance em combate de Servocrânios equipados.",
   "TOOLTIP_StunDamage_Title": "Bônus de dano de atordoamento",
   "TOOLTIP_StunDamage_Description": "Concede bônus de dano de atordoamento quando esta arma atinge um alvo. Alvos atordoados sofrerão acertos críticos no ataque seguinte e também podem ser [b:executados] se tiverem um ponto-alvo válido."
-    }
+}

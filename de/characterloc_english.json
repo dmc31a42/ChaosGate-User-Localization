@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "Kultist von Nurgle",
+  "ARCHETYPE_Cultist": "Kultist von Nurgle",
   "ARCHETYPE_Description_Cultist": "Die Kultisten von Nurgle stellen einzeln keine Gefahr für einen Grey Knight dar, sie ziehen jedoch in Rudeln umher und sind mit einer Vielzahl von Waffen ausgerüstet.",
   "ARCHETYPE_ApostatePreacher": "Abtrünniger Prediger",
   "ARCHETYPE_Description_ApostatePreacher": "Der Abtrünnige Prediger von Nurgle ist ein Anführer von Kultisten, der seinen Verbündeten abscheuliche Segnungen verleihen kann.",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "Schnelle Erholung",
   "TALENT_NAME_Talent_Guerilla": "Aegis-Fachkraft",
   "CHARACTER_MAX_LEVEL": "Max."
-    }
+}

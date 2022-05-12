@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "修士埃克塔：指揮官，我有個令人不安的消息——製造間裡的高級引擎神甫在訪問受限的灰騎士檔案時被抓個正著！這肯定是我們敵人的傑作！",
+  "ADisobedientPupil_Intro1_Text": "修士埃克塔：指揮官，我有個令人不安的消息——製造間裡的高級引擎神甫在訪問受限的灰騎士檔案時被抓個正著！這肯定是我們敵人的傑作！",
   "ADisobedientPupil_Intro2_Text": "主教盧內特：拒絕：腐化掃描結果為陰性，審訊也沒有問出相關資料。越界存取可能只是失誤。",
   "ADisobedientPupil_Intro3_Text": "埃克塔修士：納垢的僕從們十分狡猾！他，以及與他密切相關者，應該一起被除掉。",
   "ADisobedientPupil_Intro4_Text": "主教盧內特：備選方案：降級以及限制存取。製造間人員已經十分有限。",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:你：派埃克塔前往調查。]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:你：從軌道上進行分析。]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:你：繞過此次異常現象。]"
-    }
+}

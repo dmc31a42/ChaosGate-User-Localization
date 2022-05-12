@@ -1,5 +1,5 @@
 {
-        "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomanzia Braccio Metallico",
+  "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomanzia Braccio Metallico",
   "CLASS_PERK_Apothecary_IronArmBiomancy_SubTitle": "Dono psionico",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_Title": "Biomanzia Braccio Metallico - Miglioria durata",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_SubTitle": "Miglioria - Durata",
@@ -562,4 +562,4 @@
   "ABILITY_CLASS_TYPE_NAME_ForceStrike": "Colpo di Forza",
   "ABILITY_CLASS_TYPE_SUBTITLE_ForceStrike": "Colpo di Forza",
   "ABILITY_CLASS_TYPE_DESC_ForceStrike": "[b:Colpo di Forza] aumenta gli attacchi a distanza del Cavaliere con le armi psichiche Nemesis con ulteriore Volontà."
-    }
+}

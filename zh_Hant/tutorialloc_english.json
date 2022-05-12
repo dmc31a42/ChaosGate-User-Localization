@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "鏡頭",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "鏡頭",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "使用{0}{1}{2}{3}將鏡頭轉到大教堂。",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "移動",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "在此放置游標並按下{0}來選擇位置。",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "進階研究計畫需要種子才能啟動。",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "受傷騎士",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "當你的騎士從戰場上受傷歸來時，他們需要時間才能康復。受傷騎士依然可以被分配到戰鬥任務中，但其最大生命值會受到懲罰。"
-    }
+}

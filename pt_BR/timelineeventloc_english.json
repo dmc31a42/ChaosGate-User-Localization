@@ -1,5 +1,5 @@
 {
-        "Event_Common_Close": "Fechar",
+  "Event_Common_Close": "Fechar",
   "Event_Common_Continue": "Continuar",
   "Event_ADisobedientPupil_Title": "O Pupilo Extraviado",
   "Event_ADisobedientPupil_SubTitle": "Acesso não Autorizado",
@@ -587,4 +587,4 @@
   "MustAcceptAllDeeds_Description": "É preciso aceitar todos os feitos gloriosos",
   "DestroyAReaper_Title": "Missão: destrua um Ceifador",
   "DestroyAReaper_Description": "Kai ficará descontente se você falhar"
-    }
+}

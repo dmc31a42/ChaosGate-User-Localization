@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "纳垢邪教分子",
+  "ARCHETYPE_Cultist": "纳垢邪教分子",
   "ARCHETYPE_Description_Cultist": "纳垢邪教分子单独而言不是灰骑士的对手，但他们会成群游荡，并配备各种武器。",
   "ARCHETYPE_ApostatePreacher": "叛教牧师",
   "ARCHETYPE_Description_ApostatePreacher": "纳垢叛教牧师是邪教分子的领袖，可以赐予友军邪恶赐福。",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "快速恢复",
   "TALENT_NAME_Talent_Guerilla": "神盾能手",
   "CHARACTER_MAX_LEVEL": "最大"
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "Cultista de Nurgle",
+  "ARCHETYPE_Cultist": "Cultista de Nurgle",
   "ARCHETYPE_Description_Cultist": "Individualmente, os Cultistas de Nurgle não são páreo para um Cavaleiro Cinzento, mas eles andam em bandos e utilizam uma grande variedade de armas.",
   "ARCHETYPE_ApostatePreacher": "Pregador Apóstata",
   "ARCHETYPE_Description_ApostatePreacher": "O Pregador Apóstata de Nurgle lidera os cultistas e concede bênçãos malignas a seus aliados.",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "Recuperação Rápida",
   "TALENT_NAME_Talent_Guerilla": "Perito da Égide",
   "CHARACTER_MAX_LEVEL": "Máx"
-    }
+}

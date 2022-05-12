@@ -1,5 +1,5 @@
 {
-        "CREDITS_CEO_Creative_Director": "首席执行官兼创意总监",
+  "CREDITS_CEO_Creative_Director": "首席执行官兼创意总监",
   "CREDITS_CTO": "首席技术官",
   "CREDITS_Technical_Director": "音效总监",
   "CREDITS_Art_Director": "美术监制",
@@ -206,4 +206,4 @@
   "CREDITS_Special_Thanks": "特别鸣谢",
   "CREDITS_SpecialThanksFull": "特别鸣谢Frontier Foundry和Complex Games的全体员工为这款出色游戏所付出的心血。同时也要特别感谢我们在Games Workshop的所有同事，感谢他们这么多年来对《Warhammer 40,000》宇宙的构建和创造。",
   "CREDITS_Wwise": "由 Wwise 提供支持 © 2006 – 2022 Audiokinetic Inc. 保留所有权利。"
-    }
+}

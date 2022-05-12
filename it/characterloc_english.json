@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "Cultista di Nurgle",
+  "ARCHETYPE_Cultist": "Cultista di Nurgle",
   "ARCHETYPE_Description_Cultist": "Singolarmente, i cultisti di Nurgle non possono competere con i Grey Knights, ma si muovono in gruppo e sono equipaggiati con varie armi.",
   "ARCHETYPE_ApostatePreacher": "Predicatore Apostata",
   "ARCHETYPE_Description_ApostatePreacher": "Il Predicatore Apostata di Nurgle è un capo dei cultisti che può assegnare vili doni agli alleati.",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "Recupero Rapido",
   "TALENT_NAME_Talent_Guerilla": "Adepto dell'Egida",
   "CHARACTER_MAX_LEVEL": "Max"
-    }
+}

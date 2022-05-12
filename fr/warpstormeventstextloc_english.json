@@ -1,5 +1,5 @@
 {
-        "SeedResonance_Intro1_Text": "INQUISITRICE VAKIR\\u00A0: Je suis inquiète à propos des Graines de l'Éclosion à bord de la Libris. Certaines se sont mises à résonner activement en réponse aux énergies du Warp qui assaillent la coque. Je suggère que nous fassions demi-tour et que nous trouvions un autre chemin.",
+  "SeedResonance_Intro1_Text": "INQUISITRICE VAKIR\\u00A0: Je suis inquiète à propos des Graines de l'Éclosion à bord de la Libris. Certaines se sont mises à résonner activement en réponse aux énergies du Warp qui assaillent la coque. Je suggère que nous fassions demi-tour et que nous trouvions un autre chemin.",
   "SeedResonance_Choice0_MenuText": "Faire demi-tour.",
   "SeedResonance_Choice1_MenuText": "Continuer à travers la tempête.",
   "SeedResonance_Choice2_MenuText": "Détruire les Graines.",
@@ -22,4 +22,4 @@
   "ServitorsCorrupted_Choice0_MenuTextB": "[b:VOUS\\u00A0: Faites marche arrière.]",
   "ServitorsCorrupted_Choice1_MenuTextB": "[b:VOUS\\u00A0: Continuez à travers la tempête.]",
   "ServitorsCorrupted_Choice2_MenuTextB": "[b:VOUS\\u00A0: Détruisez-les immédiatement\\u00A0!]"
-    }
+}

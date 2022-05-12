@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Uwaga – statek Nurgle'a podąża za nami przez Osnowę. Wszedł na kurs umożliwiający przechwycenie Edyktu i przyspiesza.",
+  "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Uwaga – statek Nurgle'a podąża za nami przez Osnowę. Wszedł na kurs umożliwiający przechwycenie Edyktu i przyspiesza.",
   "BypassOpportunity_Intro2_Text": "BRAT ECTAR: Dowódco, powinniśmy wyjść z Osnowy i przygotować się do walki!",
   "BypassOpportunity_Intro3_Text": "DOMINA LUNETE: Rozwiązanie alternatywne – możemy zmylić pogoń, wprowadzając niewielką korektę kursu i gwałtownie przyspieszając, ale narazi to na szwank nasz harmonogram.",
   "BypassOpportunity_Choice0_MenuText": "Podejmij próbę ucieczki.",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:TY: Wyślijmy grupę abordażową na wrogi okręt.]",
   "DelayingTactics_Choice2_MenuTextB": "[b:TY: Otworzyć ogień!]",
   "DelayingTactics_Choice3_MenuTextB": "[b:TY: Natychmiast wysłać oddział na powierzchnię planety!]"
-    }
+}

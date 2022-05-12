@@ -1,5 +1,5 @@
 {
-        "ABILITY_NAME_Chaplain_BonusWP": "升級毅力值",
+  "ABILITY_NAME_Chaplain_BonusWP": "升級毅力值",
   "ABILITY_DESC_Chaplain_BonusWP": "該騎士可永久獲得[g:+{willpowerAmount}]點[b:最大毅力值] 。",
   "ABILITY_NAME_Chaplain_Provoke": "激怒",
   "ABILITY_DESC_Chaplain_Provoke": "在[g:{range}]距離內發動範圍為[g:{radius}]的[b:爆炸]以{statusEffect}。",
@@ -1259,4 +1259,4 @@
   "ENVIRONMENT_MODIFIER_DESC_Default": "所有來自或進入此區域的[b:遠程攻擊]造成[g:-{damageReduction}]點傷害。",
   "ENVIRONMENT_MODIFIER_NAME_Bloomspawn_CloudOfFlies": "蒼蠅烏雲",
   "ENVIRONMENT_MODIFIER_DESC_Bloomspawn_CloudOfFlies": "成為來自或進入此烏雲的[b:遠程攻擊]目標的盟友受到[g:-{damageReduction}]點傷害。"
-    }
+}

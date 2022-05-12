@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "主教盧內特：警告：一艘異端船艦一直在亞空間尾隨我們，它開始在航線上加速前行，試圖攔截法令號。",
+  "BypassOpportunity_Intro1_Text": "主教盧內特：警告：一艘異端船艦一直在亞空間尾隨我們，它開始在航線上加速前行，試圖攔截法令號。",
   "BypassOpportunity_Intro2_Text": "修士埃克塔：我們應該離開亞空間然後準備交戰，指揮官！",
   "BypassOpportunity_Intro3_Text": "主教盧內特：備選方案：稍微修正一下航線，並以最大速度加速就能讓他們暈頭轉向，但我們的時間表也會受到影響。",
   "BypassOpportunity_Choice0_MenuText": "嘗試撤退。",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:你：登上敵艦。]",
   "DelayingTactics_Choice2_MenuTextB": "[b:你：開火！]",
   "DelayingTactics_Choice3_MenuTextB": "[b:你：立即部署到這顆星球上！]"
-    }
+}

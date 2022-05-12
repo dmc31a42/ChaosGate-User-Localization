@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "VAKIR: Vous avez toute mon attention, Chevalier.",
+  "TalkToVakir_Intro1_Text": "VAKIR: Vous avez toute mon attention, Chevalier.",
   "TalkToVakir_Intro2_Text": "VAKIR: Nous avons tous deux du travail. De quoi avez-vous besoin\\u00A0?",
   "TalkToVakir_Intro3_Text": "VAKIR: Le Sentencieux est un grand vaisseau, Commandant. Et pourtant, je vous retrouve toujours ici.",
   "TalkToVakir_Intro4_Text": "VAKIR: Puis-je vous aider, Commandant\\u00A0?",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "LUNETE\\u00A0: Les travaux sur les boucliers Void se poursuivent. C'est une zone que j'ai supervisée personnellement, car les boucliers Void sont des technologies scellées par Mechanicum\\u00A0: un savoir interdit à tout être n'ayant pas le rang de Dominus. Ils demeurent une priorité et seront donc pleinement opérationnels aussi tôt que possible.",
   "TalkToLunete_Outro1_MenuText": "C'est tout pour le moment.",
   "TalkToLunete_Outro1_MenuTextB": "[b:VOUS: C'est tout pour le moment.]"
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Kamera",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "Kamera",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "Schwenke mit {0}{1}{2}{3} zur Kathedrale.",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "Bewegen",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "Positioniere den Cursor hier und drücke {0}, um die Position zu wählen.",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "Fortgeschrittene Forschungsprojekte benötigen Saaten für die Initialisierung.",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "Verwundete Ritter",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "Kehren deine Ritter verwundet vom Kampf zurück, müssen sie sich erholen. Du kannst verwundete Ritter dennoch auf Missionen entsenden, allerdings mit geringeren max. LP."
-    }
+}

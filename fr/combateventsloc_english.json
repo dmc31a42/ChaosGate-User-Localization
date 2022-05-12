@@ -1,5 +1,5 @@
 {
-        "WARP_SURGE_FROZEN": "Pic d'activité du Warp gelé",
+  "WARP_SURGE_FROZEN": "Pic d'activité du Warp gelé",
   "COMBAT_EVENT_TYPE_BossPhase": "Compétence de crise",
   "COMBAT_EVENT_TYPE_NurglingSwarm": "Essaim Nurgling",
   "COMBAT_EVENT_TYPE_PowerOfTheBloom": "Pouvoir de l'Éclosion",
@@ -167,4 +167,4 @@
   "STRATAGEM_DOMINATE_DESCRIPTION": "Ciblez un [b:Ennemi]\\u00A0: {statusEffect}.",
   "WARP_SURGE_WEAPON_VIRUS_TOAST": "Munition détruite",
   "WARP_SURGE_RELENTLESS_HOST_TOAST": "Immunisé (étourdissement)"
-    }
+}

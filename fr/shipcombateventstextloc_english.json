@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "DOMINUS LUNETE\\u00A0: Avertissement\\u00A0: un vaisseau Nurgle nous a suivis dans le Warp, il commence à accélérer afin d'intercepter le Sentencieux.",
+  "BypassOpportunity_Intro1_Text": "DOMINUS LUNETE\\u00A0: Avertissement\\u00A0: un vaisseau Nurgle nous a suivis dans le Warp, il commence à accélérer afin d'intercepter le Sentencieux.",
   "BypassOpportunity_Intro2_Text": "FRÈRE ECTAR: Nous devrions sortir du Warp et nous préparer à combattre, Commandant\\u00A0!",
   "BypassOpportunity_Intro3_Text": "DOMINUS LUNETE\\u00A0: Alternative\\u00A0: une légère correction de trajectoire combinée à une accélération maximale pourrait les perturber, notre planning en serait affecté.",
   "BypassOpportunity_Choice0_MenuText": "Tenter de battre en retraite.",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:VOUS\\u00A0: Abordez le vaisseau ennemi.]",
   "DelayingTactics_Choice2_MenuTextB": "[b:VOUS\\u00A0: Ouvrez le feu\\u00A0!]",
   "DelayingTactics_Choice3_MenuTextB": "[b:VOUS\\u00A0: Déployez-vous immédiatement sur la planète\\u00A0!]"
-    }
+}

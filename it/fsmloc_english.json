@@ -1,5 +1,5 @@
 {
-        "KORAMAR_VAKIR_COMMANDERHAVEYOURMEN": "Comandante, ordinate ai vostri uomini di cercare segni della peste.",
+  "KORAMAR_VAKIR_COMMANDERHAVEYOURMEN": "Comandante, ordinate ai vostri uomini di cercare segni della peste.",
   "KORAMAR_ECTAR_BEVIGILANTBROTHERS": "State allerta, Fratelli.",
   "KORAMAR_VAKIR_WAITTHATCREATURE": "Aspetta... Quella creatura...!",
   "KORAMAR_ECTAR_INQUISITORWEHAVESEEN": "Inquisitrice, abbiamo già visto i morti rianimarsi.",
@@ -395,4 +395,4 @@
   "III_10_1_LINE19_KADEX": "Ho fatto solo come avete richiesto, padrone!",
   "III_10_1_LINE20_MORTARION": "Draigo! Non puoi vincere!",
   "III_10_1_LINE21_MORTARION": "La peste invaderà l'Imperium, ho un'eternità per assicurarmi che suppuri!"
-    }
+}

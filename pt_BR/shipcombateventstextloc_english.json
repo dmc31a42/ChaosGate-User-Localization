@@ -1,5 +1,5 @@
 {
-        "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Aviso: uma embarcação de Nurgle está em nosso encalço na Distorção. Ela começou a acelerar em curso de interceptação da Proclamação.",
+  "BypassOpportunity_Intro1_Text": "DOMINA LUNETE: Aviso: uma embarcação de Nurgle está em nosso encalço na Distorção. Ela começou a acelerar em curso de interceptação da Proclamação.",
   "BypassOpportunity_Intro2_Text": "IRMÃO ECTAR: É melhor sairmos da Distorção e nos prepararmos para o confronto, Comandante!",
   "BypassOpportunity_Intro3_Text": "DOMINA LUNETE: Alternativa: uma pequena correção de curso em combinação com aceleração máxima os confundiria, mas nosso cronograma seria prejudicado.",
   "BypassOpportunity_Choice0_MenuText": "Tentar recuar.",
@@ -309,4 +309,4 @@
   "DelayingTactics_Choice1_MenuTextB": "[b:VOCÊ: Invadir a nave inimiga.]",
   "DelayingTactics_Choice2_MenuTextB": "[b:VOCÊ: Abrir fogo!]",
   "DelayingTactics_Choice3_MenuTextB": "[b:VOCÊ: Seguir para o planeta imediatamente!]"
-    }
+}

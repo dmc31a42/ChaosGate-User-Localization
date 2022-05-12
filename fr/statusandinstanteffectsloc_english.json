@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "Purification",
+  "INSTANT_EFFECT_NAME_Purify": "Purification",
   "INSTANT_EFFECT_DESC_Purify": "Les Chevaliers touchés par la [b:Purification] sont immédiatement débarrassés de leurs Malédictions.",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "Contretemps",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "Les cibles touchées sont violemment repoussées par la source du [b:Rejet] à [g:{param1}] de distance.",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "Lames corrompues",
   "STATUS_EFFECT_TOAST_SearingBlades": "Lames torrides",
   "STATUS_EFFECT_TOAST_WeaponVirus": "Virus létal"
-    }
+}

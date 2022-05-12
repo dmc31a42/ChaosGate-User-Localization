@@ -1,5 +1,5 @@
 {
-        "MUTATION_ALL": "突变：全部",
+  "MUTATION_ALL": "突变：全部",
   "MUTATION_UNAVAILABLE": "不可用",
   "MUTATION_NAME_PlagueBearer_Resistance": "抗性",
   "MUTATION_NAME_PlagueBearer_Armour": "护甲值",
@@ -294,4 +294,4 @@
   "MUTATION_DESC_Right_Inactive": "右侧：未激活",
   "MUTATION_DESC_Inactive": "未激活",
   "MUTATION_DESC_Level": "等级{0}"
-    }
+}

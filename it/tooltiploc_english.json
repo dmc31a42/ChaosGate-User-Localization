@@ -1,5 +1,5 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "Linea temporale della campagna",
+  "TOOLTIP_CampaignTimeline_Title": "Linea temporale della campagna",
   "TOOLTIP_CampaignTimeline_Description": "Il numero di giorni solari tyrtaeni trascorsi finora durante questa campagna.",
   "TOOLTIP_PlanetView_Title": "Visuale del pianeta",
   "TOOLTIP_StarMap_Title": "Mappa stellare",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "Aumenta la gittata dei Servoteschi equipaggiati in combattimento.",
   "TOOLTIP_StunDamage_Title": "Danni bonus Stordimento",
   "TOOLTIP_StunDamage_Description": "Fornisce danni extra da Stordimento quando quest'arma colpisce un bersaglio. I bersagli Storditi subiranno sempre un colpo critico con il prossimo attacco ricevuto e potranno venire [b:giustiziati] se possiedono un punto bersaglio valido."
-    }
+}

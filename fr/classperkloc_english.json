@@ -1,5 +1,5 @@
 {
-        "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomancie percutante",
+  "CLASS_PERK_Apothecary_IronArmBiomancy_Title": "Biomancie percutante",
   "CLASS_PERK_Apothecary_IronArmBiomancy_SubTitle": "Bienfait psychique",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_Title": "Biomancie percutante - Amélioration Durée",
   "CLASS_PERK_Apothecary_IronArmBiomancy_Duration_SubTitle": "Amélioration - Durée",
@@ -562,4 +562,4 @@
   "ABILITY_CLASS_TYPE_NAME_ForceStrike": "Frappe en Force",
   "ABILITY_CLASS_TYPE_SUBTITLE_ForceStrike": "Frappe en Force",
   "ABILITY_CLASS_TYPE_DESC_ForceStrike": "Une [b:Frappe en Force] augmente les attaques de corps-à-corps du Chevalier en conférant de la Volonté supplémentaire aux armes de la Force Némésis."
-    }
+}

@@ -1,5 +1,5 @@
 {
-        "ADisobedientPupil_Intro1_Text": "HERMANO ECTAR: Comandante, tengo noticias alarmantes. El visioingeniero asignado en el Manufactorum ha sido sorprendido accediendo a archivos restringidos de los Caballeros Grises. ¡Estoy convencido de que es obra de nuestro enemigo!",
+  "ADisobedientPupil_Intro1_Text": "HERMANO ECTAR: Comandante, tengo noticias alarmantes. El visioingeniero asignado en el Manufactorum ha sido sorprendido accediendo a archivos restringidos de los Caballeros Grises. ¡Estoy convencido de que es obra de nuestro enemigo!",
   "ADisobedientPupil_Intro2_Text": "DOMINA LUNETE: Negación: los escáneres de corrupción muestran valores negativos y el interrogatorio no ha extraído ningún dato relevante. Es probable que la infracción de acceso haya sido un error.",
   "ADisobedientPupil_Intro3_Text": "HERMANO ECTAR: ¡Los siervos de Nurgle son retorcidos! Debemos purificarlo, a él y a todos sus colaboradores cercanos.",
   "ADisobedientPupil_Intro4_Text": "DOMINA LUNETE: Alternativa: degradación y restricción de acceso. El personal del Manufactorum ya es limitado.",
@@ -723,4 +723,4 @@
   "WarpStormDisturbanceB_Arrival_Choice1_MenuTextB": "[b:TÚ: Ectar, ve a investigar.]",
   "WarpStormDisturbanceB_Arrival_Choice2_MenuTextB": "[b:TÚ: Quiero un análisis desde la órbita.]",
   "WarpStormDisturbanceB_Arrival_Choice3_MenuTextB": "[b:TÚ: Ignorad la anomalía.]"
-    }
+}

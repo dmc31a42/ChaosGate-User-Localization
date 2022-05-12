@@ -1,5 +1,5 @@
 {
-        "INSTANT_EFFECT_NAME_Purify": "Purificazione",
+  "INSTANT_EFFECT_NAME_Purify": "Purificazione",
   "INSTANT_EFFECT_DESC_Purify": "Le afflizioni dei Cavalieri colpiti da [b:Purificazione] sono rimosse immediatamente.",
   "INSTANT_EFFECT_NAME_KnockbackEffect": "Respinta",
   "INSTANT_EFFECT_DESC_KnockbackEffect": "I bersagli colpiti vengono spinti violentemente via dalla fonte della [b:Respinta] con gittata [g:{param1}].",
@@ -435,4 +435,4 @@
   "STATUS_EFFECT_TOAST_TaintedBlades": "Lame Infette",
   "STATUS_EFFECT_TOAST_SearingBlades": "Lame Ustionanti",
   "STATUS_EFFECT_TOAST_WeaponVirus": "Virus d'arma"
-    }
+}

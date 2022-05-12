@@ -1,5 +1,5 @@
 {
-        "ARCHETYPE_Cultist": "Sectario de Nurgle",
+  "ARCHETYPE_Cultist": "Sectario de Nurgle",
   "ARCHETYPE_Description_Cultist": "Los sectarios de Nurgle no son rival por separado para un Caballero Gris, pero vagan en grupo y están armados de distintas formas.",
   "ARCHETYPE_ApostatePreacher": "Predicador apóstata",
   "ARCHETYPE_Description_ApostatePreacher": "El predicador apóstata de Nurgle es un líder de sectarios que puede conceder viles ventajas a sus aliados.",
@@ -268,4 +268,4 @@
   "TALENT_NAME_Talent_FastRecovery": "Recuperación rápida",
   "TALENT_NAME_Talent_Guerilla": "Adepto de Aegis",
   "CHARACTER_MAX_LEVEL": "Máx."
-    }
+}

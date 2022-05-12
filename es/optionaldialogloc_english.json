@@ -1,5 +1,5 @@
 {
-        "TalkToVakir_Intro1_Text": "VAKIR: Soy toda oídos, caballero.",
+  "TalkToVakir_Intro1_Text": "VAKIR: Soy toda oídos, caballero.",
   "TalkToVakir_Intro2_Text": "VAKIR: Ambos tenemos cosas que hacer. ¿Qué quieres?",
   "TalkToVakir_Intro3_Text": "VAKIR: A pesar de que el Mandato Siniestro es una nave grande, comandante, siempre estás aquí.",
   "TalkToVakir_Intro4_Text": "VAKIR: ¿Puedo ayudarte, comandante?",
@@ -621,4 +621,4 @@
   "TalkToLunete_Contextual19_Text": "LUNETE: Seguimos trabajando en los escudos de vacío. Es algo que debo supervisar en persona, puesto que se trata de tecnologías selladas por el Mechanicum cuyo conocimiento está restringido a seres que no ostentan el rango de Dominus. Dado que son la prioridad, me encargaré de que estén listos lo antes posible.",
   "TalkToLunete_Outro1_MenuText": "Eso es todo por el momento.",
   "TalkToLunete_Outro1_MenuTextB": "[b:TÚ: Eso es todo por el momento.]"
-    }
+}

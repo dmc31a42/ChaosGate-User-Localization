@@ -1,5 +1,5 @@
 {
-        "TUTORIAL_SMALLBOX_TITLE_CAMERA": "镜头",
+  "TUTORIAL_SMALLBOX_TITLE_CAMERA": "镜头",
   "TUTORIAL_SMALLBOX_BODY_CAMERA": "使用{0}{1}{2}{3}移至大教堂。",
   "TUTORIAL_SMALLBOX_TITLE_MOVE": "移动",
   "TUTORIAL_SMALLBOX_BODY_MOVE": "将光标移到此处并按下{0}来选择位置。",
@@ -329,4 +329,4 @@
   "SHIP_CONTEXTUAL_TUTORIAL_New_Seed_Strains_Instruction": "高级研究项目需要种子才能启动。",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Title": "受伤骑士",
   "SHIP_CONTEXTUAL_TUTORIAL_Wounded_Knights_Body": "当你的骑士从战场上受伤归来时，他们需要时间才能康复。受伤骑士依然可以被分配到战斗任务中，但其最大生命值会有惩罚。"
-    }
+}

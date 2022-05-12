@@ -1,6 +1,6 @@
 {
-        "TOOLTIP_CampaignTimeline_Title": "Chronologia kampanii",
-  "TOOLTIP_CampaignTimeline_Description": "Liczba tyrtaeńskich dni słonecznych, które upłynęły od początku tej kampanii",
+  "TOOLTIP_CampaignTimeline_Title": "Chronologia kampanii",
+  "TOOLTIP_CampaignTimeline_Description": "Liczba tyrtaeńskich dni słonecznych, które upłynęły od początku tej kampanii.",
   "TOOLTIP_PlanetView_Title": "Widok planety",
   "TOOLTIP_StarMap_Title": "Mapa gwiazd",
   "TOOLTIP_Strategium_Title": "Strategium",
@@ -121,4 +121,4 @@
   "TOOLTIP_SkullRange_Description": "Zwiększa w walce zasięg serwoczaszki na wyposażeniu.",
   "TOOLTIP_StunDamage_Title": "Premia do obrażeń od ogłuszenia",
   "TOOLTIP_StunDamage_Description": "Zapewnia dodatkowe obrażenia od ogłuszenia, gdy ta broń trafi w cel. Następny atak wymierzony w ogłuszony cel zawsze jest trafieniem krytycznym. Na ogłuszonych jednostkach można także dokonywać [b:egzekucji], jeśli mają aktywne punkty celu."
-    }
+}

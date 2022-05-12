@@ -1,5 +1,5 @@
 {
-        "SeedResonance_Intro1_Text": "INQUISITORIN VAKIR: Commander, ich mache mir Sorgen um die Blüten-Saat an Bord der Libris: Mehrere der Pflanzen weisen eine aktive Resonanz als Reaktion auf die Warp-Energien auf, die den Rumpf erschüttern. Ich schlage vor, wir kehren um und suchen einen anderen Weg.",
+  "SeedResonance_Intro1_Text": "INQUISITORIN VAKIR: Commander, ich mache mir Sorgen um die Blüten-Saat an Bord der Libris: Mehrere der Pflanzen weisen eine aktive Resonanz als Reaktion auf die Warp-Energien auf, die den Rumpf erschüttern. Ich schlage vor, wir kehren um und suchen einen anderen Weg.",
   "SeedResonance_Choice0_MenuText": "Kehren wir um.",
   "SeedResonance_Choice1_MenuText": "Fliege weiter durch den Sturm.",
   "SeedResonance_Choice2_MenuText": "Zerstöre die Saat.",
@@ -22,4 +22,4 @@
   "ServitorsCorrupted_Choice0_MenuTextB": "[b:DU: Schlage einen Gegenkurs ein.]",
   "ServitorsCorrupted_Choice1_MenuTextB": "[b:DU: Fliege weiter durch den Sturm.]",
   "ServitorsCorrupted_Choice2_MenuTextB": "[b:DU: Zerstöre sie sofort!]"
-    }
+}
