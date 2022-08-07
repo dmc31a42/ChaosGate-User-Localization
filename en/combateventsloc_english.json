@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "Heal 1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "Target a [b:Knight] to [b:Heal] [g:All].",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "Gate of Infinity",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "All Knights [b:Teleport] to any visible location.",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "All Knights [b:Teleport] to any visible location. All Knights [r:-1] AP.",
   "STRATAGEM_WILLPOWER_NAME": "Willpower 1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "Target a [b:Knight] who recovers [g:All] [b:WP].",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "Strength of Spirit",

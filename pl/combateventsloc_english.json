@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "Leczenie 1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "Namierz [b:rycerza], aby [b:wyleczyć] go [g:w całości].",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "Brama Nieskończoności",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Wszyscy rycerze [b:teleportują się] do dowolnego widocznego miejsca.",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Wszyscy rycerze [b:teleportują się] w dowolne widoczne miejsce. Wszyscy rycerze mają [r:-1] do PA.",
   "STRATAGEM_WILLPOWER_NAME": "Siła woli 1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "Namierz [b:rycerza], który odzyska [g:całą] [b:SW].",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "Siła ducha",

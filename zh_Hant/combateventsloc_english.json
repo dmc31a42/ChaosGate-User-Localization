@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "治療1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "瞄準一名[b:騎士]，[b:治療][g:全體]。",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "無盡之門",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "所有騎士[b:傳送]至任何可視位置。",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "所有騎士[b:傳送]至任何可視位置。所有騎士行動點數 [r:-1]。",
   "STRATAGEM_WILLPOWER_NAME": "毅力值1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "瞄準一名[b:騎士]，恢復[g:全體][b:毅力值]。",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "靈魂之力",

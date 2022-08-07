@@ -187,6 +187,8 @@
   "STATUS_EFFECT_DESC_GrandfathersBlessing": "Zyskuje [g:+{armour}][b: do [b:pancerza].",
   "STATUS_EFFECT_NAME_ThePowerOfMutation": "Moc mutacji",
   "STATUS_EFFECT_DESC_ThePowerOfMutation": "Mutacje zyskują podwójną moc.",
+  "STATUS_EFFECT_NAME_PutridDetonation": "Wybuch zgnilizny",
+  "STATUS_EFFECT_DESC_PutridDetonation": "Gdy zginie, powoduje wybuch na obszarze o promieniu [g:{radius}], zadając [g:{otherDamage}] OBR.",
   "STATUS_EFFECT_NAME_AegisShieldStatus": "Tarcza Aegis",
   "STATUS_EFFECT_DESC_AegisShieldStatus": "Ten rycerz zyskuje [g:+{armour}] do [b:pancerza].",
   "STATUS_EFFECT_NAME_ArcaneWeapons": "Bronie tajemne",

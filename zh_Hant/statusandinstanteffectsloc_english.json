@@ -187,6 +187,8 @@
   "STATUS_EFFECT_DESC_GrandfathersBlessing": "獲得[g:+{armour}][b:點護甲值]。",
   "STATUS_EFFECT_NAME_ThePowerOfMutation": "突變之力",
   "STATUS_EFFECT_DESC_ThePowerOfMutation": "突變之力加倍。",
+  "STATUS_EFFECT_NAME_PutridDetonation": "腐臭爆炸",
+  "STATUS_EFFECT_DESC_PutridDetonation": "被擊殺時，發動範圍為[g:{radius}]的爆炸，造成[g:{otherDamage}]點傷害。",
   "STATUS_EFFECT_NAME_AegisShieldStatus": "宙斯盾",
   "STATUS_EFFECT_DESC_AegisShieldStatus": "該騎士可獲得[g:+{armour}]點[b:護甲值]。",
   "STATUS_EFFECT_NAME_ArcaneWeapons": "奧術武器",

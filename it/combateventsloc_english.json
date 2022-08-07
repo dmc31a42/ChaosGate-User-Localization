@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "Guarigione 1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "Seleziona un [b:Cavaliere] per [b:curarlo] [g:completamente].",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "Portale dell'Infinito",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Tutti i Cavalieri si [b:teletrasportano] in una posizione visibile.",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Tutti i Cavalieri si [b:teletrasportano] in una posizione visibile. Tutti i Cavalieri subiscono [r:-1] PA.",
   "STRATAGEM_WILLPOWER_NAME": "Volontà 1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "Seleziona un [b:Cavaliere] per ripristinare [g:tutta] la sua [b:VOL].",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "Forza di Spirito",

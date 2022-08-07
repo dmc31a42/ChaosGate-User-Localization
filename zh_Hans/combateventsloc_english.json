@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "治疗1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "瞄准一名[b:骑士]，[b:治疗][g:全体]。",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "无尽之门",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "所有骑士[b:传送]至任何可视位置。",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "所有骑士[b:传送]至任何可视位置。所有骑士[r:-1]行动点数。",
   "STRATAGEM_WILLPOWER_NAME": "毅力值1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "瞄准一名[b:骑士]，恢复[g:全体][b:毅力值].。",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "灵魂之力",

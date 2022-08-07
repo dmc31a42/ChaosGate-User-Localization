@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "Cura 1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "Alveje um [b:Cavaleiro] para [b:curar] [g:tudo].",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "Portal do Infinito",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Todos os Cavaleiros se [b:teleportam] para qualquer local visível.",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Todos os Cavaleiros se [b:teleportam] para qualquer local visível e recebem [r:-1] PA.",
   "STRATAGEM_WILLPOWER_NAME": "Determinação 1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "Alveje um [b:Cavaleiro] para restaurar [g:todos] os [b:PD] dele.",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "Força do Espírito",

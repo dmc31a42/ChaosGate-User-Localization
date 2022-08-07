@@ -187,6 +187,8 @@
   "STATUS_EFFECT_DESC_GrandfathersBlessing": "Gain [g:+{armour}] [b:Armour].",
   "STATUS_EFFECT_NAME_ThePowerOfMutation": "The Power of Mutation",
   "STATUS_EFFECT_DESC_ThePowerOfMutation": "Mutations are doubled in power.",
+  "STATUS_EFFECT_NAME_PutridDetonation": "Putrid Detonation",
+  "STATUS_EFFECT_DESC_PutridDetonation": "When killed, explode in a Blast over Area [g:{radius}] to deal [g:{otherDamage}] DMG.",
   "STATUS_EFFECT_NAME_AegisShieldStatus": "Aegis Shield",
   "STATUS_EFFECT_DESC_AegisShieldStatus": "This Knight gains [g:+{armour}] [b:Armour].",
   "STATUS_EFFECT_NAME_ArcaneWeapons": "Arcane Weapons",

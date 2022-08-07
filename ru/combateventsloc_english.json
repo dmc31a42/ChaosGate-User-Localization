@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "Исцеление 1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "Выберите [b:рыцаря], который будет [g:полностью] [b:исцелен].",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "Врата бесконечности",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Все рыцари [b:телепортируются] на любой видимый участок.",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Все рыцари [b:телепортируются] на любой видимый участок. Все рыцари теряют [r:1] ОД.",
   "STRATAGEM_WILLPOWER_NAME": "Сила воли 1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "Выберите [b:рыцаря], который [g:полностью] восстановит очки [b:СВ].",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "Сила духа",

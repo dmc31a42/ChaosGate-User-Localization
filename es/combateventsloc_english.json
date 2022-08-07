@@ -134,7 +134,7 @@
   "STRATAGEM_HEAL_1_NAME": "Curación 1",
   "STRATAGEM_HEAL_1_DESCRIPTION": "Selecciona a un [b:caballero] para que [b:cure] a [g:todos].",
   "STRATAGEM_PRECISION_TELEPORT_NAME": "Puerta sempiterna",
-  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Todos los caballeros se [b:teleportan] a cualquier ubicación visible.",
+  "STRATAGEM_PRECISION_TELEPORT_DESCRIPTION": "Todos los caballeros se [b:teleportan] a cualquier ubicación visible. Todos los caballeros: [r:-1] de PA.",
   "STRATAGEM_WILLPOWER_NAME": "Fuerza de voluntad 1",
   "STRATAGEM_WILLPOWER_DESCRIPTION": "Selecciona a un [b:caballero] para que recupere [g:toda] su [b:FV].",
   "STRATAGEM_STRENGTH_OF_SPIRIT_NAME": "Fuerza de espíritu",

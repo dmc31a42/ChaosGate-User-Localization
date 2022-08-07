@@ -187,6 +187,8 @@
   "STATUS_EFFECT_DESC_GrandfathersBlessing": "获得[g:+{armour}][b:点护甲值。",
   "STATUS_EFFECT_NAME_ThePowerOfMutation": "突变之力",
   "STATUS_EFFECT_DESC_ThePowerOfMutation": "突变威力加倍。",
+  "STATUS_EFFECT_NAME_PutridDetonation": "腐臭爆炸",
+  "STATUS_EFFECT_DESC_PutridDetonation": "被击杀时，发动范围为[g:{radius}]的爆炸，造成[g:{otherDamage}]点伤害。",
   "STATUS_EFFECT_NAME_AegisShieldStatus": "神盾",
   "STATUS_EFFECT_DESC_AegisShieldStatus": "该骑士会获得[g:+{armour}]点[b:护甲值]。",
   "STATUS_EFFECT_NAME_ArcaneWeapons": "奥术武器",

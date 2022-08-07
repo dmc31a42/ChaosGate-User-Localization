@@ -187,6 +187,8 @@
   "STATUS_EFFECT_DESC_GrandfathersBlessing": "Ganha [g:+{armour}][b: de [b:armadura].",
   "STATUS_EFFECT_NAME_ThePowerOfMutation": "O Poder da Mutação",
   "STATUS_EFFECT_DESC_ThePowerOfMutation": "O poder das mutações é dobrado.",
+  "STATUS_EFFECT_NAME_PutridDetonation": "Detonação Pútrida",
+  "STATUS_EFFECT_DESC_PutridDetonation": "Ao morrer, deflagra uma explosão em uma área de [g:{radius}] e causa [g:{otherDamage}] de dano.",
   "STATUS_EFFECT_NAME_AegisShieldStatus": "Égide Protetora",
   "STATUS_EFFECT_DESC_AegisShieldStatus": "Este Cavaleiro ganha [g:+{armour}] de [b:armadura].",
   "STATUS_EFFECT_NAME_ArcaneWeapons": "Armas arcanas",

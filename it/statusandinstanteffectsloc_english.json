@@ -187,6 +187,8 @@
   "STATUS_EFFECT_DESC_GrandfathersBlessing": "Conferisce [g:+{armour}][b: [b:Armatura].",
   "STATUS_EFFECT_NAME_ThePowerOfMutation": "Potere della Mutazione",
   "STATUS_EFFECT_DESC_ThePowerOfMutation": "La potenza delle mutazioni è raddoppiata.",
+  "STATUS_EFFECT_NAME_PutridDetonation": "Detonazione Putrida",
+  "STATUS_EFFECT_DESC_PutridDetonation": "Una volta uccisa, l'unità esplode con area [g:{radius}], infliggendo [g:{otherDamage}] DAN.",
   "STATUS_EFFECT_NAME_AegisShieldStatus": "Scudo Egida",
   "STATUS_EFFECT_DESC_AegisShieldStatus": "Il Cavaliere ottiene [g:+{armour}] [b:Armatura].",
   "STATUS_EFFECT_NAME_ArcaneWeapons": "Armi Arcane",
